@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/src/styles/index.css" />
+  <title>The Math Hub</title>
+</head>
+
+<body>
+  <header class="fixed z-10 w-full h-16 text-white flex items-center justify-between px-4">
+    <div class="logo">
+      <img src="/src/assets/logo.svg" alt="The Math Hub Logo" class="h-10">
+    </div>
+    <nav class="flex space-x-4">
+      <a href="/games" class="text-white hover:text-blue-200">Games</a>
+
+    </nav>
+  </header>
+  <div id="hero" class="w-full h-150 relative flex items-center justify-center text-white">
+    <iframe src="/pages/bg.html" frameborder="none" class="absolute w-full h-full -z-10"></iframe>
+    <div class="text-area z-10">
+      <h1 class="ti text-8xl z-10">THE <span id="aurora">MATH</span> HUB</h1>
+      <p class="subti text-2xl z-10 mt-4 max-w-200">Cure your classroom boredom with 400+ epic unblocked games and
+        experiences.
+      </p>
+      <button class="play-b mt-6 px-8 py-3 bg-blue-600 text-white rounded-lg z-10">
+        Let's Play!
+    </div>
+    <div class="visual w-full h-full absolute top-0 left-0 overflow-hidden">
+      <div id="vis-1">
+        <video autoplay loop muted playsinline class="vid">
+          <source src="/videos/math1.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+      </div>
+      <div id="vis-2">
+        <video autoplay loop muted playsinline class="vid">
+          <source src="/videos/math2.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+      </div>
+    </div>
+
+  </div>
+</body>
+
+</html>

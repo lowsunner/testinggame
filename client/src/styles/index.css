@@ -1,0 +1,135 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'font';
+    src: url('/fonts/inter.ttf');
+}
+
+body {
+    font-family: 'font', sans-serif;
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.271);
+    backdrop-filter: blur(50px);
+    outline: 1px solid rgba(255, 255, 255, 0.66);
+}
+
+#aurora {
+    background: linear-gradient(90deg, #003cff, #0091ff, #55ddff, #003cff);
+    background-position: 0% 00%;
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: aurora 15s infinite linear;
+}
+
+@keyframes aurora {
+    0% {
+        background-position: 0% 0%;
+    }
+
+    100% {
+        background-position: 400% 400%;
+    }
+}
+
+.play-b {
+    background: linear-gradient(90deg, #003cff, #0091ff, #55ddff, #003cff);
+    background-position: 0% 00%;
+    background-size: 400% 400%;
+    transition: all 0.3s ease-in-out;
+    box-shadow: #0091ff 0px 0px 0px;
+    cursor: pointer;
+}
+
+.play-b:hover {
+    transform: scale(1.05);
+    box-shadow: #0091ff 0px 0px 15px;
+    animation: aurora 15s infinite linear;
+}
+
+.visual {
+    animation: visual .5s;
+    animation-fill-mode: forwards;
+    animation-delay: 1s;
+}
+
+#vis-1 {
+    z-index: 1;
+    position: absolute;
+    width: 600px;
+    height: 350px;
+    background-color: #ffffff44;
+    backdrop-filter: blur(50px);
+    border: 1px solid rgba(255, 255, 255, 0.66);
+    bottom: -150px;
+    left: 40px;
+    border-radius: 30px;
+    transform: rotate(-10deg);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    transform: translateY(400px);
+    animation: vis1 1s;
+    animation-fill-mode: forwards;
+    animation-delay: .1s;
+}
+
+#vis-2 {
+    z-index: 1;
+    position: absolute;
+    width: 600px;
+    height: 350px;
+    background-color: #ffffff44;
+    backdrop-filter: blur(50px);
+    border: 1px solid rgba(255, 255, 255, 0.66);
+    bottom: -40px;
+    right: 40px;
+    border-radius: 30px;
+    transform: rotate(10deg);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    animation: vis2 1s;
+    animation-fill-mode: forwards;
+}
+
+.vid {
+    width: 93.7%;
+    height: 90%;
+    border-radius: 17px;
+    object-fit: cover;
+}
+
+@keyframes visual {
+    0% {
+        filter: blur(0px);
+    }
+
+
+    100% {
+        filter: blur(5px);
+    }
+}
+
+@keyframes vis1 {
+    0% {
+        transform: translateY(400px);
+    }
+
+    100% {
+        transform: translateY(0px) rotate(-10deg);
+    }
+}
+
+@keyframes vis2 {
+    0% {
+        transform: translateY(400px);
+    }
+
+    100% {
+        transform: translateY(0px) rotate(10deg);
+        ;
+    }
+}

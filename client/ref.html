@@ -1,0 +1,529 @@
+<!---- THIS IS JUST A REFERENCE DESIGN -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ref</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body class="bg-gray-900 text-white overflow-x-hidden">
+
+
+  <nav class="fixed w-full top-0 z-50 bg-gray-900/95 backdrop-blur-md border-b border-gray-800">
+    <div class="container mx-auto px-4 py-4">
+      <div class="flex items-center justify-between">
+        <div class="flex items-center space-x-8">
+
+          <div class="flex items-center space-x-2 cursor-pointer">
+            <div
+              class="w-10 h-10 bg-gradient-to-br from-purple-500 to-pink-500 rounded-lg flex items-center justify-center">
+              <i class="fas fa-gamepad text-white"></i>
+            </div>
+            <span class="text-xl font-bold">GameHub</span>
+          </div>
+
+
+          <div class="hidden md:flex items-center space-x-6">
+            <a href="#" class="hover:text-purple-400 transition">S</a>
+            <a href="#" class="hover:text-purple-400 transition">Lib</a>
+            <a href="#" class="hover:text-purple-400 transition">Comm</a>
+            <a href="#" class="hover:text-purple-400 transition">S</a>
+          </div>
+        </div>
+
+
+        <div class="flex items-center space-x-4">
+          <button class="p-2 hover:bg-gray-800 rounded-lg transition">
+            <i class="fas fa-search"></i>
+          </button>
+          <button class="p-2 hover:bg-gray-800 rounded-lg transition relative">
+            <i class="fas fa-shopping-cart"></i>
+            <span
+              class="absolute -top-1 -right-1 bg-purple-500 text-xs w-5 h-5 rounded-full flex items-center justify-center">3</span>
+          </button>
+          <button
+            class="hidden md:block px-4 py-2 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg hover:opacity-90 transition">
+            Sign In
+          </button>
+
+          <button id="mobileMenuBtn" class="md:hidden p-2">
+            <i class="fas fa-bars text-xl"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+
+  <div id="mobileMenu" class="fixed inset-0 bg-gray-900 z-40 transform translate-x-full transition-transform md:hidden">
+    <div class="p-4 mt-20">
+      <div class="flex flex-col space-y-4">
+        <a href="#" class="text-lg hover:text-purple-400 transition">Store</a>
+        <a href="#" class="text-lg hover:text-purple-400 transition">Library</a>
+        <a href="#" class="text-lg hover:text-purple-400 transition">Community</a>
+        <a href="#" class="text-lg hover:text-purple-400 transition">Support</a>
+        <button class="mt-4 w-full px-4 py-2 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg">
+          Sign In
+        </button>
+      </div>
+    </div>
+  </div>
+
+
+  <section class="relative min-h-screen flex items-center justify-center mt-16 px-4">
+    <div class="absolute inset-0 bg-gradient-to-br from-purple-900/20 to-pink-900/20"></div>
+
+
+    <div class="absolute inset-0 overflow-hidden">
+      <div class="floating-shape absolute top-20 left-10 w-72 h-72 bg-purple-500/10 rounded-full blur-3xl"></div>
+      <div
+        class="floating-shape absolute bottom-20 right-10 w-96 h-96 bg-pink-500/10 rounded-full blur-3xl animation-delay-2">
+      </div>
+      <div
+        class="floating-shape absolute top-1/2 left-1/2 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl animation-delay-4">
+      </div>
+    </div>
+
+    <div class="container mx-auto text-center relative z-10">
+      <h1
+        class="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+        Welcome to GameHub
+      </h1>
+      <p class="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
+        Discover, play, and connect with millions of gamers worldwide. Your next adventure starts here.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <button
+          class="px-8 py-4 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg text-lg font-semibold hover:opacity-90 transition transform hover:scale-105">
+          Browse Games
+        </button>
+        <button
+          class="px-8 py-4 bg-gray-800 rounded-lg text-lg font-semibold hover:bg-gray-700 transition transform hover:scale-105">
+          Watch Trailer <i class="fas fa-play ml-2"></i>
+        </button>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="py-20 px-4">
+    <div class="container mx-auto">
+      <div class="flex items-center justify-between mb-10">
+        <h2 class="text-3xl md:text-4xl font-bold">Featured Games</h2>
+        <button class="text-purple-400 hover:text-purple-300 transition">
+          View All <i class="fas fa-arrow-right ml-2"></i>
+        </button>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+
+        <div class="game-card group cursor-pointer">
+          <div class="relative overflow-hidden rounded-lg bg-gray-800">
+            <div class="aspect-[3/4] bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center">
+              <i class="fas fa-gamepad text-6xl text-white/50"></i>
+            </div>
+            <div
+              class="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+            </div>
+            <div
+              class="absolute bottom-0 left-0 right-0 p-4 transform translate-y-full group-hover:translate-y-0 transition-transform">
+              <button class="w-full py-2 bg-purple-500 rounded-lg hover:bg-purple-600 transition">
+                Play Now
+              </button>
+            </div>
+          </div>
+          <div class="mt-4">
+            <h3 class="text-lg font-semibold">Cyber Quest</h3>
+            <p class="text-gray-400 text-sm">Action RPG</p>
+            <div class="flex items-center justify-between mt-2">
+              <span class="text-purple-400 font-bold">$59.99</span>
+              <div class="flex items-center gap-1">
+                <i class="fas fa-star text-yellow-400 text-sm"></i>
+                <span class="text-sm">4.8</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="game-card group cursor-pointer">
+          <div class="relative overflow-hidden rounded-lg bg-gray-800">
+            <div class="aspect-[3/4] bg-gradient-to-br from-pink-600 to-orange-600 flex items-center justify-center">
+              <i class="fas fa-dragon text-6xl text-white/50"></i>
+            </div>
+            <div
+              class="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+            </div>
+            <div
+              class="absolute bottom-0 left-0 right-0 p-4 transform translate-y-full group-hover:translate-y-0 transition-transform">
+              <button class="w-full py-2 bg-purple-500 rounded-lg hover:bg-purple-600 transition">
+                Play Now
+              </button>
+            </div>
+          </div>
+          <div class="mt-4">
+            <h3 class="text-lg font-semibold">Dragon Realm</h3>
+            <p class="text-gray-400 text-sm">Fantasy Adventure</p>
+            <div class="flex items-center justify-between mt-2">
+              <span class="text-purple-400 font-bold">$49.99</span>
+              <div class="flex items-center gap-1">
+                <i class="fas fa-star text-yellow-400 text-sm"></i>
+                <span class="text-sm">4.9</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="game-card group cursor-pointer">
+          <div class="relative overflow-hidden rounded-lg bg-gray-800">
+            <div class="aspect-[3/4] bg-gradient-to-br from-green-600 to-teal-600 flex items-center justify-center">
+              <i class="fas fa-rocket text-6xl text-white/50"></i>
+            </div>
+            <div
+              class="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+            </div>
+            <div
+              class="absolute bottom-0 left-0 right-0 p-4 transform translate-y-full group-hover:translate-y-0 transition-transform">
+              <button class="w-full py-2 bg-purple-500 rounded-lg hover:bg-purple-600 transition">
+                Play Now
+              </button>
+            </div>
+          </div>
+          <div class="mt-4">
+            <h3 class="text-lg font-semibold">Space Odyssey</h3>
+            <p class="text-gray-400 text-sm">Sci-Fi Shooter</p>
+            <div class="flex items-center justify-between mt-2">
+              <span class="text-purple-400 font-bold">$39.99</span>
+              <div class="flex items-center gap-1">
+                <i class="fas fa-star text-yellow-400 text-sm"></i>
+                <span class="text-sm">4.7</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="game-card group cursor-pointer">
+          <div class="relative overflow-hidden rounded-lg bg-gray-800">
+            <div class="aspect-[3/4] bg-gradient-to-br from-red-600 to-yellow-600 flex items-center justify-center">
+              <i class="fas fa-car text-6xl text-white/50"></i>
+            </div>
+            <div
+              class="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+            </div>
+            <div
+              class="absolute bottom-0 left-0 right-0 p-4 transform translate-y-full group-hover:translate-y-0 transition-transform">
+              <button class="w-full py-2 bg-purple-500 rounded-lg hover:bg-purple-600 transition">
+                Play Now
+              </button>
+            </div>
+          </div>
+          <div class="mt-4">
+            <h3 class="text-lg font-semibold">Speed Rush</h3>
+            <p class="text-gray-400 text-sm">Racing</p>
+            <div class="flex items-center justify-between mt-2">
+              <span class="text-purple-400 font-bold">$29.99</span>
+              <div class="flex items-center gap-1">
+                <i class="fas fa-star text-yellow-400 text-sm"></i>
+                <span class="text-sm">4.6</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="py-20 px-4 bg-gray-800/50">
+    <div class="container mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center mb-10">Browse by Category</h2>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+        <div
+          class="category-card bg-gray-800 p-6 rounded-lg text-center hover:bg-gray-700 transition cursor-pointer group">
+          <i class="fas fa-sword text-3xl mb-3 text-purple-400 group-hover:scale-110 transition"></i>
+          <p class="font-semibold">Action</p>
+        </div>
+        <div
+          class="category-card bg-gray-800 p-6 rounded-lg text-center hover:bg-gray-700 transition cursor-pointer group">
+          <i class="fas fa-puzzle-piece text-3xl mb-3 text-pink-400 group-hover:scale-110 transition"></i>
+          <p class="font-semibold">Puzzle</p>
+        </div>
+        <div
+          class="category-card bg-gray-800 p-6 rounded-lg text-center hover:bg-gray-700 transition cursor-pointer group">
+          <i class="fas fa-flag-checkered text-3xl mb-3 text-blue-400 group-hover:scale-110 transition"></i>
+          <p class="font-semibold">Racing</p>
+        </div>
+        <div
+          class="category-card bg-gray-800 p-6 rounded-lg text-center hover:bg-gray-700 transition cursor-pointer group">
+          <i class="fas fa-football-ball text-3xl mb-3 text-green-400 group-hover:scale-110 transition"></i>
+          <p class="font-semibold">Sports</p>
+        </div>
+        <div
+          class="category-card bg-gray-800 p-6 rounded-lg text-center hover:bg-gray-700 transition cursor-pointer group">
+          <i class="fas fa-chess text-3xl mb-3 text-yellow-400 group-hover:scale-110 transition"></i>
+          <p class="font-semibold">Strategy</p>
+        </div>
+        <div
+          class="category-card bg-gray-800 p-6 rounded-lg text-center hover:bg-gray-700 transition cursor-pointer group">
+          <i class="fas fa-hat-wizard text-3xl mb-3 text-red-400 group-hover:scale-110 transition"></i>
+          <p class="font-semibold">RPG</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="py-20 px-4">
+    <div class="container mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold mb-10">Special Offers</h2>
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg p-8 relative overflow-hidden">
+          <div class="relative z-10">
+            <h3 class="text-2xl font-bold mb-2">Weekend Sale</h3>
+            <p class="text-lg mb-4 opacity-90">Save up to 70% on selected titles</p>
+            <button class="px-6 py-3 bg-white text-purple-600 rounded-lg font-semibold hover:bg-gray-100 transition">
+              Shop Now
+            </button>
+          </div>
+          <div class="absolute right-0 top-0 opacity-20">
+            <i class="fas fa-percent text-[150px]"></i>
+          </div>
+        </div>
+        <div class="bg-gradient-to-r from-blue-600 to-teal-600 rounded-lg p-8 relative overflow-hidden">
+          <div class="relative z-10">
+            <h3 class="text-2xl font-bold mb-2">Game Pass</h3>
+            <p class="text-lg mb-4 opacity-90">Unlimited access to 100+ games</p>
+            <button class="px-6 py-3 bg-white text-blue-600 rounded-lg font-semibold hover:bg-gray-100 transition">
+              Start Free Trial
+            </button>
+          </div>
+          <div class="absolute right-0 top-0 opacity-20">
+            <i class="fas fa-infinity text-[150px]"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="py-20 px-4 bg-gray-800/50">
+    <div class="container mx-auto text-center">
+      <h2 class="text-3xl md:text-4xl font-bold mb-4">Stay in the Game</h2>
+      <p class="text-gray-400 mb-8 max-w-2xl mx-auto">
+        Get the latest news, exclusive offers, and game updates delivered to your inbox.
+      </p>
+      <form class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+        <input type="email" placeholder="Enter your email"
+          class="flex-1 px-4 py-3 bg-gray-800 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500">
+        <button type="submit"
+          class="px-8 py-3 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg font-semibold hover:opacity-90 transition">
+          Subscribe
+        </button>
+      </form>
+    </div>
+  </section>
+
+
+  <footer class="py-10 px-4 border-t border-gray-800">
+    <div class="container mx-auto">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-8">
+        <div>
+          <h4 class="font-semibold mb-4">Games</h4>
+          <ul class="space-y-2 text-gray-400">
+            <li><a href="#" class="hover:text-white transition">New Releases</a></li>
+            <li><a href="#" class="hover:text-white transition">Best Sellers</a></li>
+            <li><a href="#" class="hover:text-white transition">Free Games</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-semibold mb-4">Company</h4>
+          <ul class="space-y-2 text-gray-400">
+            <li><a href="#" class="hover:text-white transition">About Us</a></li>
+            <li><a href="#" class="hover:text-white transition">Careers</a></li>
+            <li><a href="#" class="hover:text-white transition">Press</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-semibold mb-4">Support</h4>
+          <ul class="space-y-2 text-gray-400">
+            <li><a href="#" class="hover:text-white transition">Help Center</a></li>
+            <li><a href="#" class="hover:text-white transition">Contact Us</a></li>
+            <li><a href="#" class="hover:text-white transition">Refunds</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-semibold mb-4">Connect</h4>
+          <div class="flex space-x-4">
+            <a href="#" class="text-gray-400 hover:text-white transition">
+              <i class="fab fa-twitter text-xl"></i>
+            </a>
+            <a href="#" class="text-gray-400 hover:text-white transition">
+              <i class="fab fa-facebook text-xl"></i>
+            </a>
+            <a href="#" class="text-gray-400 hover:text-white transition">
+              <i class="fab fa-instagram text-xl"></i>
+            </a>
+            <a href="#" class="text-gray-400 hover:text-white transition">
+              <i class="fab fa-youtube text-xl"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="text-center text-gray-400 pt-8 border-t border-gray-800">
+        <p>&copy; 2024 GameHub. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <style>
+    @keyframes float {
+
+      0%,
+      100% {
+        transform: translate(0, 0) scale(1);
+      }
+
+      33% {
+        transform: translate(30px, -30px) scale(1.1);
+      }
+
+      66% {
+        transform: translate(-20px, 20px) scale(0.9);
+      }
+    }
+
+    .floating-shape {
+      animation: float 20s ease-in-out infinite;
+    }
+
+    .animation-delay-2 {
+      animation-delay: 2s;
+    }
+
+    .animation-delay-4 {
+      animation-delay: 4s;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #1f2937;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #4b5563;
+      border-radius: 5px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #6b7280;
+    }
+  </style>
+
+  <script>
+
+    const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+    const mobileMenu = document.getElementById('mobileMenu');
+    let isMenuOpen = false;
+
+    mobileMenuBtn.addEventListener('click', () => {
+      isMenuOpen = !isMenuOpen;
+      if (isMenuOpen) {
+        mobileMenu.classList.remove('translate-x-full');
+        mobileMenu.classList.add('translate-x-0');
+        mobileMenuBtn.innerHTML = '<i class="fas fa-times text-xl"></i>';
+      } else {
+        mobileMenu.classList.remove('translate-x-0');
+        mobileMenu.classList.add('translate-x-full');
+        mobileMenuBtn.innerHTML = '<i class="fas fa-bars text-xl"></i>';
+      }
+    });
+
+    const observerOptions = {
+      threshold: 0.1,
+      rootMargin: '0px 0px -100px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.style.opacity = '1';
+          entry.target.style.transform = 'translateY(0)';
+        }
+      });
+    }, observerOptions);
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const cards = document.querySelectorAll('.game-card, .category-card');
+      cards.forEach((card, index) => {
+        card.style.opacity = '0';
+        card.style.transform = 'translateY(20px)';
+        card.style.transition = `opacity 0.5s ease ${index * 0.1}s, transform 0.5s ease ${index * 0.1}s`;
+        observer.observe(card);
+      });
+    });
+
+    const addToCartButtons = document.querySelectorAll('.game-card button');
+    const cartIcon = document.querySelector('.fa-shopping-cart').parentElement;
+    const cartCount = cartIcon.querySelector('span');
+
+    addToCartButtons.forEach(button => {
+      button.addEventListener('click', (e) => {
+        e.stopPropagation();
+
+        let count = parseInt(cartCount.textContent);
+        cartCount.textContent = count + 1;
+
+        cartIcon.classList.add('scale-125');
+        setTimeout(() => {
+          cartIcon.classList.remove('scale-125');
+        }, 300);
+
+        const originalText = button.textContent;
+        button.textContent = 'Added!';
+        button.classList.add('bg-green-500');
+        setTimeout(() => {
+          button.textContent = originalText;
+          button.classList.remove('bg-green-500');
+        }, 1500);
+      });
+    });
+
+    const newsletterForm = document.querySelector('form');
+    newsletterForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const email = e.target.querySelector('input[type="email"]').value;
+      if (email) {
+        const button = e.target.querySelector('button[type="submit"]');
+        button.textContent = 'Subscribed!';
+        button.classList.add('bg-green-500');
+        e.target.querySelector('input[type="email"]').value = '';
+        setTimeout(() => {
+          button.textContent = 'Subscribe';
+          button.classList.remove('bg-green-500');
+        }, 3000);
+      }
+    });
+
+    window.addEventListener('scroll', () => {
+      const scrolled = window.pageYOffset;
+      const hero = document.querySelector('.min-h-screen');
+      hero.style.transform = `translateY(${scrolled * 0.5}px)`;
+    });
+  </script>
+</body>
+
+</html>
