@@ -1,0 +1,9 @@
+@import url('index.css');
+
+@import url('games.css');
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'font';
+    src: url('/fonts/inter.ttf');
+}

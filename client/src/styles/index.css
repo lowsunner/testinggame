@@ -1,10 +1,3 @@
-@import "tailwindcss";
-
-@font-face {
-    font-family: 'font';
-    src: url('/fonts/inter.ttf');
-}
-
 body {
     font-family: 'font', sans-serif;
 }
@@ -41,6 +34,7 @@ header {
     transition: all 0.3s ease-in-out;
     box-shadow: #0091ff 0px 0px 0px;
     cursor: pointer;
+    z-index: 100;
 }
 
 .play-b:hover {
@@ -53,10 +47,11 @@ header {
     animation: visual .5s;
     animation-fill-mode: forwards;
     animation-delay: 1s;
+    z-index: -1;
 }
 
 #vis-1 {
-    z-index: 1;
+    z-index: -1;
     position: absolute;
     width: 600px;
     height: 350px;
@@ -84,10 +79,10 @@ header {
     background-color: #ffffff44;
     backdrop-filter: blur(50px);
     border: 1px solid rgba(255, 255, 255, 0.66);
-    bottom: -40px;
-    right: 40px;
+    bottom: 10px;
+    left: 700px;
     border-radius: 30px;
-    transform: rotate(10deg);
+    transform: rotate(400deg);
     align-items: center;
     display: flex;
     justify-content: center;
@@ -129,7 +124,7 @@ header {
     }
 
     100% {
-        transform: translateY(0px) rotate(10deg);
-        ;
+        transform: translateY(0px) rotate(15deg);
+
     }
 }

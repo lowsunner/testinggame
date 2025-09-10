@@ -1,0 +1,37 @@
+---
+import Layout from "../layouts/layout.astro";
+---
+
+<Layout title="Games - The Math Hub">
+	<iframe
+		src="/pages/bg.html"
+		frameborder="none"
+		class="fixed w-full h-full -z-10"></iframe>
+
+	<main class="pt-30 max-w-7xl mx-auto">
+		<div id="content">
+			<div
+				id="search-container"
+				class="w-screen max-w-4xl mx-auto mb-6 flex justify-center">
+				<div
+					id="searchbar"
+					class="glass w-150 h-16 rounded-3xl flex items-center">
+					<img
+						src="/img/search.svg"
+						alt="Search Icon"
+						class="max-w-9 ml-4 mt-.5"
+					/>
+					<input
+						type="text"
+						id="searchInput"
+						placeholder="Search games..."
+						class="flex-grow h-full bg-transparent text-white placeholder-gray-400 text-lg rounded-3xl px-4 outline-none font-light"
+					/>
+				</div>
+			</div>
+
+			<div id="games"></div>
+		</div>
+		<script src="../scripts/games.ts"></script>
+	</main>
+</Layout>

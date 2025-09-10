@@ -1,0 +1,42 @@
+---
+import Layout from "../layouts/layout.astro";
+---
+
+<Layout title="The Math Hub">
+	<div
+		id="hero"
+		class="w-full h-150 relative flex items-center justify-center text-white">
+		<iframe
+			src="/pages/bg.html"
+			frameborder="none"
+			class="absolute w-full h-full -z-10"></iframe>
+		<div class="text-area z-10">
+			<h1 class="ti text-8xl z-10">
+				THE <span id="aurora">MATH</span> HUB
+			</h1>
+			<p class="subti text-2xl z-10 mt-4 max-w-200">
+				Cure your classroom boredom with 400+ epic unblocked games and
+				experiences.
+			</p>
+			<button
+				class="play-b mt-6 px-8 py-3 bg-blue-600 text-white rounded-lg z-10">
+				Let's Play!
+			</button>
+			<div
+				class="visual w-full h-full absolute top-0 left-0 overflow-hidden">
+				<div id="vis-1">
+					<video autoplay loop muted playsinline class="vid">
+						<source src="/videos/math1.mp4" type="video/mp4" />
+						Your browser does not support the video tag.
+					</video>
+					<div id="vis-2">
+						<video autoplay loop muted playsinline class="vid">
+							<source src="/videos/math2.mp4" type="video/mp4" />
+							Your browser does not support the video tag.
+						</video>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</Layout>
