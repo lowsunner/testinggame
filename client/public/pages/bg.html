@@ -7,6 +7,10 @@
     <title>bg</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
+        html {
+            overflow: hidden;
+        }
+
         @keyframes gradientShift {
             0% {
                 background-position: 0% 50%;
@@ -51,13 +55,13 @@
 </head>
 
 <body class="h-screen w-full overflow-hidden background">
-    <div class="absolute inset-0 bg-gradient-to-br from-blue-600/20 to-teal-900/20"></div>
+    <div class="absolute inset-0 bg-gradient-to-br from-blue-600/20 to-teal-900/20 overflow-hidden"></div>
     <div class="absolute inset-0 overflow-hidden">
-        <div class="floating absolute top-20 left-10 w-72 h-72 bg-teal-500/10 rounded-full blur-3xl"
+        <div class="floating absolute top-20 left-10 w-72 h-72 bg-teal-500/10 rounded-full blur-3xl overflow-hidden"
             style="animation-delay: 0s;"></div>
-        <div class="floating absolute bottom-20 right-10 w-96 h-96 bg-blue-200/10 rounded-full blur-3xl"
+        <div class="floating absolute bottom-20 right-10 w-96 h-96 bg-blue-200/10 overflow-hidden rounded-full blur-3xl"
             style="animation-delay: 3s;"></div>
-        <div class="floating absolute top-1/2 left-1/2 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl"
+        <div class="floating absolute top-1/2 left-1/2 w-64 h-64 bg-blue-500/10 overflow-hidden rounded-full blur-3xl"
             style="animation-delay: 6s;"></div>
     </div>
 </body>

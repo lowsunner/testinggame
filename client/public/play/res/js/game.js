@@ -37,3 +37,56 @@ frame.onload = function () {
     }
 
 };
+
+
+async function loadMoreGames() {
+    const moreGamesContainer = document.getElementById('more-games');
+    if (!moreGamesContainer) return;
+
+    const pathParts = window.location.pathname.split('/');
+    const currentGameId = pathParts.find(part => part && part !== 'play') || '';
+
+    try {
+        const response = await fetch('/json/games.json');
+        if (!response.ok) throw new Error('Failed to load games.json');
+        const games = await response.json();
+
+
+        const otherGames = games.filter(game => game.url !== currentGameId);
+
+
+        const shuffled = otherGames.sort(() => 0.5 - Math.random());
+        const selected = shuffled.slice(0, 6);
+
+        moreGamesContainer.innerHTML = '';
+
+
+        selected.forEach(game => {
+            const fallbackImageUrl = `https://enchanteddonutstudioz.github.io/the-math-hub-CDN/imgs/${game.image.split('/').pop()}`;
+
+            const tile = document.createElement('a');
+            tile.href = `/play/${game.url}/`;
+            tile.className = 'game-tile';
+            tile.innerHTML = `
+            <div class="tile-image">
+                <img src="${game.image}" alt="${game.name}" style="width:100%;height:120%;object-fit:cover;" 
+                     onerror="this.onerror=null;this.src='${fallbackImageUrl}'">
+            </div>
+            <div class="tile-text">
+                <p>${game.name}</p>
+            </div>
+        `;
+            moreGamesContainer.appendChild(tile);
+        });
+
+    } catch (error) {
+        console.error('Error loading more games:', error);
+        moreGamesContainer.innerHTML = '<p>Could not load more games.</p>';
+    }
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadMoreGames);
+} else {
+    loadMoreGames();
+}

@@ -4,12 +4,22 @@ function loadGames() {
         fetch('/json/games.json')
             .then(response => response.json())
             .then(games => {
-                gamesContainer.innerHTML = games.map((game: { name: string; description: string; url: string; image: string; }) => `
+                gamesContainer.innerHTML = games.map((game: any) => {
+                    const fallbackImageUrl = `https://enchanteddonutstudioz.github.io/the-math-hub-CDN/imgs/${game.image.split('/').pop()}`;
+
+                    return `
                     <div class="game-card glass" data-link="/play/${game.url}/">
-                        <img src="${game.image}" alt="${game.name} image" class="game-image">
+                        <img 
+                            src="${game.image}" 
+                            alt="${game.name} image" 
+                            class="game-image"
+                            onerror="this.onerror=null;this.src='${fallbackImageUrl}';"
+                        >
                         <h3>${game.name}</h3>
                     </div>
-                `).join('');
+                    `;
+                }).join('');
+
                 document.querySelectorAll('.game-card').forEach(card => {
                     card.addEventListener('click', () => {
                         const link = card.getAttribute('data-link');

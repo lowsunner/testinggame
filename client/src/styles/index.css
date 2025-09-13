@@ -13,6 +13,7 @@ header {
     background-position: 0% 00%;
     background-size: 400% 400%;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: aurora 15s infinite linear;
 }
@@ -79,7 +80,7 @@ header {
     background-color: #ffffff44;
     backdrop-filter: blur(50px);
     border: 1px solid rgba(255, 255, 255, 0.66);
-    bottom: 10px;
+    bottom: -40px;
     left: 700px;
     border-radius: 30px;
     transform: rotate(400deg);

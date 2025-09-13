@@ -17,14 +17,6 @@
         "size": "s"
     },
     {
-        "name": "1V1 Space",
-        "image": "/cdn/imgs/1v1_space.webp",
-        "url": "1v1space",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "2020 Game",
         "image": "/cdn/imgs/2020_game.webp",
         "url": "2020-game",
@@ -36,14 +28,6 @@
         "name": "2048",
         "image": "/cdn/imgs/2048.webp",
         "url": "2048",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "8 Ball Billards Classic",
-        "image": "/cdn/imgs/8_ball_billards_classic.webp",
-        "url": "8ball-billards-classic",
         "tags": [],
         "special": [],
         "size": "s"
