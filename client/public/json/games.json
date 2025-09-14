@@ -5,7 +5,8 @@
         "url": "10-minutes-till-dawn",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -14,7 +15,8 @@
         "url": "100ng",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "2020 Game",
@@ -22,7 +24,8 @@
         "url": "2020-game",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "2048",
@@ -30,7 +33,8 @@
         "url": "2048",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Achievement Unlocked",
@@ -38,7 +42,8 @@
         "url": "achievementunlocked",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "A Dark Room",
@@ -46,7 +51,8 @@
         "url": "adarkroom",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -55,7 +61,8 @@
         "url": "adrenalinechallenge",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Age Of War",
@@ -63,7 +70,8 @@
         "url": "age-of-war",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Alien Invaders.io",
@@ -71,7 +79,8 @@
         "url": "alien-invaders-io",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Alien Hominid",
@@ -79,7 +88,8 @@
         "url": "alienhominid",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Align 4",
@@ -87,7 +97,8 @@
         "url": "align-4",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Among Us",
@@ -95,7 +106,8 @@
         "url": "among-us",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Angry Birds",
@@ -103,7 +115,8 @@
         "url": "angry-birds",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Anti-Terrorist Rush",
@@ -111,7 +124,8 @@
         "url": "anti-terrorist-rush",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Arcade Wizard",
@@ -119,7 +133,8 @@
         "url": "arcade-wizard",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Ascii Space",
@@ -127,7 +142,8 @@
         "url": "asciispace",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Aspiring Artist",
@@ -135,7 +151,8 @@
         "url": "aspiring-artist",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Asteroids",
@@ -143,7 +160,8 @@
         "url": "asteroids",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Astray",
@@ -151,7 +169,8 @@
         "url": "astray",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Avalanche",
@@ -159,7 +178,8 @@
         "url": "avalanche",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Awesome Tanks 2",
@@ -167,7 +187,8 @@
         "url": "awesome-tanks-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Zombie Derby: Pixel Survival",
@@ -175,15 +196,8 @@
         "url": "/assets/games/zombie-derby/",
         "tags": [],
         "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Super Liquid Soccer",
-        "image": "/cdn/imgs/super_liquid_soccer.webp",
-        "url": "/assets/games/liquidsoccer/",
-        "tags": [],
-        "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Backcountry",
@@ -191,7 +205,8 @@
         "url": "backcountry",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Backflip Dive 3D",
@@ -199,7 +214,8 @@
         "url": "backflip-dive-3d",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Backrooms",
@@ -207,7 +223,8 @@
         "url": "backrooms",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bad Ice Cream",
@@ -215,7 +232,8 @@
         "url": "bad-ice-cream",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bad Ice Cream 2",
@@ -223,7 +241,8 @@
         "url": "bad-ice-cream-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bad Ice Cream 3",
@@ -231,7 +250,8 @@
         "url": "bad-ice-cream-3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Baldis Basics",
@@ -239,7 +259,8 @@
         "url": "baldis-basics",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Basket Bros.io",
@@ -247,7 +268,8 @@
         "url": "basket-bros-io",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Basketball.io",
@@ -255,7 +277,8 @@
         "url": "basketball-io",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Basketball Legends 2020",
@@ -263,7 +286,8 @@
         "url": "basketball-legends-2020",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Basketball Stars",
@@ -271,7 +295,8 @@
         "url": "basketball-stars",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Battle For Gondor",
@@ -279,7 +304,8 @@
         "url": "battleforgondor",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Big Red Button",
@@ -287,7 +313,8 @@
         "url": "bigredbutton",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Binding Of Isaac",
@@ -295,7 +322,8 @@
         "url": "binding-of-isaac",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bitlife",
@@ -303,7 +331,8 @@
         "url": "bitlife",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Black Hole Square",
@@ -311,7 +340,8 @@
         "url": "blackholesquare",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Blackknight",
@@ -319,7 +349,8 @@
         "url": "blackknight",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Blocky Snakes",
@@ -327,7 +358,8 @@
         "url": "/assets/games/blockysnakes/",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bloons TD",
@@ -335,7 +367,8 @@
         "url": "bloonstd",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bloons TD 2",
@@ -343,7 +376,8 @@
         "url": "bloonstd2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bloxors",
@@ -351,7 +385,8 @@
         "url": "bloxors",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bounceback",
@@ -359,7 +394,8 @@
         "url": "bounceback",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Boxel Rebound",
@@ -367,7 +403,8 @@
         "url": "boxel-rebound",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Boxhead2Play",
@@ -375,7 +412,8 @@
         "url": "boxhead2play",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Brave Explorers",
@@ -383,7 +421,8 @@
         "url": "brave-explorers",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Breaking The Bank",
@@ -391,7 +430,8 @@
         "url": "breakingthebank",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Breaklock",
@@ -399,7 +439,8 @@
         "url": "breaklock",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Breakout",
@@ -407,7 +448,8 @@
         "url": "breakout",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Bloons TD 4",
@@ -415,7 +457,8 @@
         "url": "btd4",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Big Tower Tiny Square",
@@ -423,7 +466,8 @@
         "url": "btts",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Burning Man 2",
@@ -431,7 +475,8 @@
         "url": "burning-man-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Cannon Basketball 4",
@@ -439,7 +484,8 @@
         "url": "cannon-basketball-4",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Canyondefense",
@@ -447,7 +493,8 @@
         "url": "canyondefense",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Captaincallisto",
@@ -455,7 +502,8 @@
         "url": "captaincallisto",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Cars Simulator",
@@ -463,7 +511,8 @@
         "url": "cars-simulator",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Cell Machine",
@@ -471,7 +520,8 @@
         "url": "cell-machine",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Champion Archer",
@@ -479,7 +529,8 @@
         "url": "championarcher",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Chess",
@@ -487,7 +538,8 @@
         "url": "chess",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Chill Rad.io",
@@ -495,7 +547,8 @@
         "url": "chill-radio",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Chroma Incident",
@@ -503,7 +556,8 @@
         "url": "chromaincident",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Chrome Dino",
@@ -511,7 +565,8 @@
         "url": "chrome-dino",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Circlo",
@@ -519,7 +574,8 @@
         "url": "circlo",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "City Blocks 2",
@@ -527,7 +583,8 @@
         "url": "city-blocks-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Clean Up .io",
@@ -535,7 +592,8 @@
         "url": "clean-up-io",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -544,7 +602,8 @@
         "url": "cluster-rush",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Color Switch 2 Challenges",
@@ -552,7 +611,8 @@
         "url": "color-switch-2-challenges",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Connect 3",
@@ -560,7 +620,8 @@
         "url": "connect3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Cookie Clicker",
@@ -568,7 +629,8 @@
         "url": "cookie-clicker",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -577,7 +639,8 @@
         "url": "core-ball",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Craftmine",
@@ -585,7 +648,8 @@
         "url": "craftmine",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Creative Kill Chamber",
@@ -593,7 +657,8 @@
         "url": "creativekillchamber",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Crossy Road",
@@ -601,7 +666,8 @@
         "url": "crossyroad",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Crowd City 2",
@@ -609,7 +675,8 @@
         "url": "/assets/games/crowdcity2/",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "CSGO Clicker",
@@ -617,7 +684,8 @@
         "url": "csgo-clicker",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Cubefield",
@@ -625,7 +693,8 @@
         "url": "cubefield",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Cupcake 2048",
@@ -633,7 +702,8 @@
         "url": "cupcake2048",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Cut The Rope",
@@ -641,7 +711,8 @@
         "url": "ctr",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Dante",
@@ -649,7 +720,8 @@
         "url": "dante",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Deal Or No Deal",
@@ -657,7 +729,8 @@
         "url": "deal-or-no-deal",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Death Run 3D",
@@ -665,7 +738,8 @@
         "url": "death-run-3d",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Death Soul",
@@ -673,7 +747,8 @@
         "url": "death-soul",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Defend The Tank",
@@ -681,7 +756,8 @@
         "url": "defend-the-tank",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Doctor Acorn 2",
@@ -689,7 +765,8 @@
         "url": "doctor-acorn2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Dodge",
@@ -697,7 +774,8 @@
         "url": "dodge",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Doge Miner 2",
@@ -705,7 +783,8 @@
         "url": "doge-miner-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Doge Mining Simulator",
@@ -713,7 +792,8 @@
         "url": "doge-mining-simulator",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Doge 2048",
@@ -721,7 +801,8 @@
         "url": "doge2048",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Dogeminer",
@@ -729,7 +810,8 @@
         "url": "DogeMiner",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Dont Drop The White Ball 2",
@@ -737,7 +819,8 @@
         "url": "dont-drop-the-white-ball-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Doodle Jump",
@@ -745,7 +828,8 @@
         "url": "doodle-jump",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Doublewires",
@@ -753,7 +837,8 @@
         "url": "doublewires",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Douchebag Workout 2",
@@ -761,7 +846,8 @@
         "url": "douchebag-workout-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Dragon Vs Bricks",
@@ -769,7 +855,8 @@
         "url": "dragon-vs-bricks",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Draw The Hill",
@@ -777,7 +864,8 @@
         "url": "draw-the-hill",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Drive Mad",
@@ -785,7 +873,8 @@
         "url": "drive-mad",
         "tags": [],
         "special": [],
-        "size": "m",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -794,7 +883,8 @@
         "url": "duck-life-treasurehunt",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Duck Life",
@@ -802,7 +892,8 @@
         "url": "ducklife",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Duck Life 2",
@@ -810,7 +901,8 @@
         "url": "ducklife2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Duck Life 3",
@@ -818,7 +910,8 @@
         "url": "ducklife3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Duck Life 4",
@@ -826,7 +919,8 @@
         "url": "ducklife4",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Duke Dashington",
@@ -834,7 +928,8 @@
         "url": "duke-dashington-remastered",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Dungeon Craft",
@@ -842,7 +937,8 @@
         "url": "dungeon-craft",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Edge Surf",
@@ -850,7 +946,8 @@
         "url": "edge-surf",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Edge Not Found",
@@ -858,7 +955,8 @@
         "url": "edgenotfound",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Elastic Face",
@@ -866,7 +964,8 @@
         "url": "elastic-face",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Emulator Js",
@@ -874,7 +973,8 @@
         "url": "emulator-js",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Endless War 3",
@@ -882,7 +982,8 @@
         "url": "endlesswar3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Escaping The Prison",
@@ -890,7 +991,8 @@
         "url": "escapingtheprison",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Evil Glitch",
@@ -898,7 +1000,8 @@
         "url": "evil-glitch",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Evolution",
@@ -906,7 +1009,8 @@
         "url": "evolution",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Exo",
@@ -914,7 +1018,8 @@
         "url": "exo",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Factory Balls Forever",
@@ -922,7 +1027,8 @@
         "url": "factory-balls-forever",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Factory Balls",
@@ -930,7 +1036,8 @@
         "url": "factoryballs",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Fake Virus",
@@ -938,7 +1045,8 @@
         "url": "fake-virus",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Fancypants Adventures",
@@ -946,7 +1054,8 @@
         "url": "fancypantsadventures",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Fire Boy Water Girl",
@@ -954,7 +1063,8 @@
         "url": "fbwg",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Finns Fantastic Food Machine",
@@ -962,7 +1072,8 @@
         "url": "finns-fantastic-food-machine",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Fire and Ice",
@@ -970,7 +1081,8 @@
         "url": "fireice",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Flappy 2048",
@@ -978,7 +1090,8 @@
         "url": "flappy-2048",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -987,7 +1100,8 @@
         "url": "flappy-bird",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Flappy Defense",
@@ -995,7 +1109,8 @@
         "url": "flappy-defense",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tetris",
@@ -1003,7 +1118,8 @@
         "url": "flashtetris",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Flippy Fish",
@@ -1011,7 +1127,8 @@
         "url": "flippy-fish",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Flood Runner 2",
@@ -1019,7 +1136,8 @@
         "url": "flood-runner-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Friday Night Funkin",
@@ -1027,7 +1145,8 @@
         "url": "fridaynightfunkin",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Friendly Fire",
@@ -1035,7 +1154,8 @@
         "url": "friendlyfire",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Froggy's Battle",
@@ -1043,7 +1163,8 @@
         "url": "froggys-battle",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Fruit Ninja",
@@ -1051,7 +1172,8 @@
         "url": "fruitninja",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Frying Nemo",
@@ -1059,7 +1181,8 @@
         "url": "frying-nemo",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Game Inside",
@@ -1067,7 +1190,8 @@
         "url": "game-inside",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Generic Fishing Game",
@@ -1075,7 +1199,8 @@
         "url": "generic-fishing-game",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Geodash",
@@ -1083,7 +1208,8 @@
         "url": "geodash",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Geodash 2",
@@ -1091,7 +1217,8 @@
         "url": "geodash-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "George and the Printer",
@@ -1099,7 +1226,8 @@
         "url": "georgeandtheprinter",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Getaway Shootout",
@@ -1107,7 +1235,8 @@
         "url": "getaway-shootout",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Getting Over It",
@@ -1115,7 +1244,8 @@
         "url": "getting-over-it",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Gimme The Airpod",
@@ -1123,7 +1253,8 @@
         "url": "gimme-the-airpod",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Glass City",
@@ -1131,7 +1262,8 @@
         "url": "glass-city",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Go Ball",
@@ -1139,7 +1271,8 @@
         "url": "go-ball",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Golf",
@@ -1147,7 +1280,8 @@
         "url": "golf",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Goodnight",
@@ -1155,7 +1289,8 @@
         "url": "goodnight",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Google Snake",
@@ -1163,7 +1298,8 @@
         "url": "google-snake",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Google Solitaire",
@@ -1171,7 +1307,8 @@
         "url": "google-solitaire",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Gopher Kart",
@@ -1179,7 +1316,8 @@
         "url": "gopher",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Gravity Soccer",
@@ -1187,7 +1325,8 @@
         "url": "gravity-soccer",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Green",
@@ -1195,7 +1334,8 @@
         "url": "green",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Greybox",
@@ -1203,7 +1343,8 @@
         "url": "greybox",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Grindcraft",
@@ -1211,7 +1352,8 @@
         "url": "grindcraft",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -1220,7 +1362,8 @@
         "url": "grow-in-the-hole",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Gun Mayhem",
@@ -1228,7 +1371,8 @@
         "url": "gun-mayhem",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Gun Mayhem 2",
@@ -1236,7 +1380,8 @@
         "url": "gun-mayhem-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Gun Mayhem Redux",
@@ -1244,7 +1389,8 @@
         "url": "gun-mayhem-redux",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Gunspin",
@@ -1252,7 +1398,8 @@
         "url": "/assets/games/gunspin/",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Hackertyper",
@@ -1260,7 +1407,8 @@
         "url": "hackertype",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Happy Hop",
@@ -1268,7 +1416,8 @@
         "url": "happy-hop",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Happy Wheels",
@@ -1276,7 +1425,8 @@
         "url": "happy-wheels",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Hoverbot Arena",
@@ -1284,7 +1434,8 @@
         "url": "hba",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Helicopter",
@@ -1292,7 +1443,8 @@
         "url": "helicopter",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Helios",
@@ -1300,7 +1452,8 @@
         "url": "helios",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Hexempire",
@@ -1308,7 +1461,8 @@
         "url": "hexempire",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Hexgl",
@@ -1316,7 +1470,8 @@
         "url": "HexGL",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Hextris",
@@ -1324,7 +1479,8 @@
         "url": "hextris",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "House Of Hazards",
@@ -1332,7 +1488,8 @@
         "url": "house-of-hazards",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Icy Purple Head",
@@ -1340,7 +1497,8 @@
         "url": "icys-purple-head",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Idle Breakout",
@@ -1348,7 +1506,8 @@
         "url": "idle-breakout",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Idle Shark",
@@ -1356,7 +1515,8 @@
         "url": "idle-shark",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Impossible Quiz",
@@ -1364,7 +1524,8 @@
         "url": "impossiblequiz",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Interactive Buddy",
@@ -1372,7 +1533,8 @@
         "url": "interactivebuddy",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Jelly Truck",
@@ -1380,7 +1542,8 @@
         "url": "jelly-truck",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Jetpack Joyride",
@@ -1388,7 +1551,8 @@
         "url": "jetpack",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Jimothy Piggerton",
@@ -1396,7 +1560,8 @@
         "url": "jimothy-piggerton",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Just One Boss",
@@ -1404,7 +1569,8 @@
         "url": "just-one-boss",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Justfall",
@@ -1412,7 +1578,8 @@
         "url": "justfall",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Kart Fight .io",
@@ -1420,7 +1587,8 @@
         "url": "kart-fight-io",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Kitchen Gun Game",
@@ -1428,7 +1596,8 @@
         "url": "kitchen-gun-game",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Kitten Cannon",
@@ -1436,7 +1605,8 @@
         "url": "kittencannon",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Klocki",
@@ -1444,7 +1614,8 @@
         "url": "klocki",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Konnekt",
@@ -1452,7 +1623,8 @@
         "url": "konnekt",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Krunker",
@@ -1460,7 +1632,8 @@
         "url": "krunker",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Learn to fly",
@@ -1468,7 +1641,8 @@
         "url": "learntofly",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Learn to fly 2",
@@ -1476,7 +1650,8 @@
         "url": "learntofly2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Line Rider",
@@ -1484,7 +1659,8 @@
         "url": "line-rider",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Linquest",
@@ -1492,7 +1668,8 @@
         "url": "linquest",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Madalin Stunt Cars 2",
@@ -1500,7 +1677,8 @@
         "url": "madalin-stunt-cars-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Madalin Stunt Cars 3",
@@ -1508,7 +1686,8 @@
         "url": "madalin-stunt-cars-3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Mario",
@@ -1516,7 +1695,8 @@
         "url": "mario",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Marvin Spectrum",
@@ -1524,7 +1704,8 @@
         "url": "marvinspectrum",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Matrix Rampage",
@@ -1532,7 +1713,8 @@
         "url": "matrixrampage",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Meat Boy",
@@ -1540,7 +1722,8 @@
         "url": "meat-boy",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Meme 2048",
@@ -1548,7 +1731,8 @@
         "url": "meme2048",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Minecraft 1.12",
@@ -1563,7 +1747,8 @@
             "Upgrade"
         ],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Starlike Client",
@@ -1578,57 +1763,8 @@
             "Upgrade"
         ],
         "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Fortnite",
-        "image": "/cdn/imgs/fortnite.webp",
-        "url": "https://play.geforcenow.com/games?game-id=46bfab06-d864-465d-9e56-2d9e45cdee0a&lang=en_US&asset-id=01_7446f58d-0d32-44f0-b4d0-cfec543a5621",
-        "tags": [
-            "3D",
-            "Action",
-            "Strategy",
-            "Shooting",
-            "Guns",
-            "Multiplayer"
-        ],
-        "special": [
-            "hot"
-        ],
-        "size": "m"
-    },
-    {
-        "name": "Bloons TD Battles 2",
-        "image": "/cdn/imgs/bloons_td_battles_2.webp",
-        "url": "https://play.geforcenow.com/games?game-id=d3b8fd6f-cad3-4779-94c3-b4617714de0c&lang=en_US&asset-id=01_4ec603c9-981d-494f-8837-491c23acfd51",
-        "tags": [
-            "3D",
-            "Action",
-            "Strategy",
-            "Upgrade",
-            "Multiplayer"
-        ],
-        "special": [
-            "hot"
-        ],
-        "size": "s"
-    },
-    {
-        "name": "Counter-Strike",
-        "image": "/cdn/imgs/counter-strike.webp",
-        "url": "https://play-cs.com/",
-        "tags": [
-            "3D",
-            "Action",
-            "Strategy",
-            "Shooting",
-            "Guns",
-            "Multiplayer"
-        ],
-        "special": [
-            "hot"
-        ],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Minesweeper",
@@ -1636,7 +1772,8 @@
         "url": "minesweeper",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Mini Stilts",
@@ -1644,7 +1781,8 @@
         "url": "mini-stilts",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Miniputt",
@@ -1652,7 +1790,8 @@
         "url": "miniputt",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Missiles",
@@ -1660,7 +1799,8 @@
         "url": "missiles",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Moto X3M 2",
@@ -1668,7 +1808,8 @@
         "url": "moto-x3m-2",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Moto X3M Pool Party",
@@ -1676,7 +1817,8 @@
         "url": "moto-x3m-pool-party",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Motox3M",
@@ -1684,7 +1826,8 @@
         "url": "motox3m",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Motox3M Pool",
@@ -1692,7 +1835,8 @@
         "url": "motox3m-pool",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Motox3M Spookyland",
@@ -1700,7 +1844,8 @@
         "url": "motox3m-spooky",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Motox3M Winter",
@@ -1708,7 +1853,8 @@
         "url": "motox3m-winter",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "My Friend Pedro",
@@ -1716,7 +1862,8 @@
         "url": "my-friend-pedro",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "N Gon",
@@ -1724,7 +1871,8 @@
         "url": "n-gon",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Ninja vs Evil Corp",
@@ -1732,7 +1880,8 @@
         "url": "ninjavsevilcorp",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "NS Shaft",
@@ -1740,7 +1889,8 @@
         "url": "ns-shaft",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Offline Paradise",
@@ -1748,7 +1898,8 @@
         "url": "OfflineParadise",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Om Nom Bounce",
@@ -1756,7 +1907,8 @@
         "url": "om-bounce",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -1765,7 +1917,8 @@
         "url": "one-screen-run",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "One Screen Run 2",
@@ -1773,7 +1926,8 @@
         "url": "one-screen-run-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Osu",
@@ -1781,7 +1935,8 @@
         "url": "osu",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "OVO",
@@ -1789,7 +1944,8 @@
         "url": "ovo",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Packabunchas",
@@ -1797,7 +1953,8 @@
         "url": "packabunchas",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Pacman",
@@ -1805,7 +1962,8 @@
         "url": "pacman",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Pacman FPS",
@@ -1813,7 +1971,8 @@
         "url": "pacman-fps",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Pandemic 2",
@@ -1821,7 +1980,8 @@
         "url": "pandemic2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papa Louie",
@@ -1829,7 +1989,8 @@
         "url": "papa-louie",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papa's Burgeria",
@@ -1837,7 +1998,8 @@
         "url": "papas-burgeria",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papa's Freezeria",
@@ -1845,7 +2007,8 @@
         "url": "papas-freezeria",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papas Hot Doggeria",
@@ -1853,7 +2016,8 @@
         "url": "papas-hot-doggeria",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papa's Pancakeria",
@@ -1861,7 +2025,8 @@
         "url": "papas-pancakeria",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papas Pizzeria",
@@ -1869,7 +2034,8 @@
         "url": "papas-pizzeria",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papa's Sushiria",
@@ -1877,7 +2043,8 @@
         "url": "papas-sushiria",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papa's Wingeria",
@@ -1885,7 +2052,8 @@
         "url": "papas-wingeria",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Paper.io 2",
@@ -1893,7 +2061,8 @@
         "url": "paperio2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Papery Planes",
@@ -1901,7 +2070,8 @@
         "url": "papery-planes",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Particle Clicker",
@@ -1909,7 +2079,8 @@
         "url": "particle-clicker",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Path Finder",
@@ -1917,7 +2088,8 @@
         "url": "path-finder",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Pe Noire",
@@ -1925,7 +2097,8 @@
         "url": "pe-noire",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Pikwip",
@@ -1933,7 +2106,8 @@
         "url": "pikwip",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Pixel Cave",
@@ -1941,7 +2115,8 @@
         "url": "pixel-cave",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Pizzeria Simulator",
@@ -1949,7 +2124,8 @@
         "url": "pizzeria-simulator",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Polybranch",
@@ -1957,7 +2133,8 @@
         "url": "polybranch",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Popcat Classic",
@@ -1965,7 +2142,8 @@
         "url": "popcat-classic",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Portalflash",
@@ -1973,7 +2151,8 @@
         "url": "portalflash",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Precision Client",
@@ -1981,7 +2160,8 @@
         "url": "precision-client",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Protektor",
@@ -1989,7 +2169,8 @@
         "url": "protektor",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Push The Square",
@@ -1997,7 +2178,8 @@
         "url": "push-the-square",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Push Your Luck",
@@ -2005,7 +2187,8 @@
         "url": "push-your-luck",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Pushback",
@@ -2013,7 +2196,8 @@
         "url": "pushback",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Puzzle Ball",
@@ -2021,7 +2205,8 @@
         "url": "puzzle-ball",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "PVZ 2",
@@ -2029,7 +2214,8 @@
         "url": "pvz-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Q1K 3",
@@ -2037,7 +2223,8 @@
         "url": "q1k3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Racer",
@@ -2045,7 +2232,8 @@
         "url": "racer",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Radius Raid",
@@ -2053,7 +2241,8 @@
         "url": "radiusraid",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Retro Bowl",
@@ -2061,7 +2250,8 @@
         "url": "retro-bowl",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Retrohaunt",
@@ -2069,7 +2259,8 @@
         "url": "retrohaunt",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Rise Of Neon Square",
@@ -2077,7 +2268,8 @@
         "url": "rise-of-neon-square",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Roadblocks",
@@ -2085,7 +2277,8 @@
         "url": "roadblocks",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Rocking Sky Trip",
@@ -2093,7 +2286,8 @@
         "url": "rocking-sky-trip",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Rolling Forests",
@@ -2101,7 +2295,8 @@
         "url": "rolling-forests",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Rolly Vortex",
@@ -2109,7 +2304,8 @@
         "url": "rolly-vortex",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Rooftop Snipers",
@@ -2117,7 +2313,8 @@
         "url": "rooftop-snipers",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Run 3",
@@ -2125,7 +2322,8 @@
         "url": "run-3",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2134,7 +2332,8 @@
         "url": "sand-game",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2143,7 +2342,8 @@
         "url": "sandboxels",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Scrambled Eggs",
@@ -2151,7 +2351,8 @@
         "url": "scrambled-eggs",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Scrapmetal",
@@ -2159,7 +2360,8 @@
         "url": "scrapmetal",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Senya And Oscar 2",
@@ -2167,7 +2369,8 @@
         "url": "senya-and-oscar-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Shadow World Adventure",
@@ -2175,7 +2378,8 @@
         "url": "shadow-world-adventure",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Shards",
@@ -2183,7 +2387,8 @@
         "url": "shards",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Shift Flash",
@@ -2191,7 +2396,8 @@
         "url": "shift-flash",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Shift Flash 2",
@@ -2199,7 +2405,8 @@
         "url": "shift-flash-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Short Life 2",
@@ -2207,7 +2414,8 @@
         "url": "short-life-2",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2216,7 +2424,8 @@
         "url": "short-ride",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2225,7 +2434,8 @@
         "url": "shuttledeck",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Skyblock",
@@ -2233,7 +2443,8 @@
         "url": "skyblock",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Sleeping Beauty",
@@ -2241,7 +2452,8 @@
         "url": "sleepingbeauty",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Slice Of Sasha",
@@ -2249,7 +2461,8 @@
         "url": "slice-of-sasha",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Slither Snake",
@@ -2257,7 +2470,8 @@
         "url": "slither snake",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Slope",
@@ -2265,7 +2479,8 @@
         "url": "slope",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Slope Ball",
@@ -2273,7 +2488,8 @@
         "url": "slope-ball",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Slope 2",
@@ -2281,7 +2497,8 @@
         "url": "slope2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Super Mario 63",
@@ -2289,7 +2506,8 @@
         "url": "sm63",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Super Mario 64",
@@ -2297,7 +2515,8 @@
         "url": "sm64",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Smashkarts",
@@ -2305,7 +2524,8 @@
         "url": "smashkarts",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Smokingbarrels",
@@ -2313,7 +2533,8 @@
         "url": "smokingbarrels",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Snake",
@@ -2321,7 +2542,8 @@
         "url": "snake",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Snowbattle",
@@ -2329,7 +2551,8 @@
         "url": "snowbattle",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Soldier Legend",
@@ -2337,7 +2560,8 @@
         "url": "soldier-legend",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Solitaire",
@@ -2345,7 +2569,8 @@
         "url": "solitaire",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Sonic The Hedgehog",
@@ -2353,7 +2578,8 @@
         "url": "sonic-the-hedgehog",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Sort The Court",
@@ -2361,7 +2587,8 @@
         "url": "sort-the-court",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Soundboard",
@@ -2369,7 +2596,8 @@
         "url": "soundboard",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Space Company",
@@ -2377,7 +2605,8 @@
         "url": "space-company",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Space Garden",
@@ -2385,7 +2614,8 @@
         "url": "spacegarden",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Space Huggers",
@@ -2393,7 +2623,8 @@
         "url": "spacehuggers",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Spelunky",
@@ -2401,7 +2632,8 @@
         "url": "spelunky",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Super Smash Flash",
@@ -2409,7 +2641,8 @@
         "url": "ssf",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stack",
@@ -2417,7 +2650,8 @@
         "url": "stack",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stack Bump 3D",
@@ -2425,7 +2659,8 @@
         "url": "stack-bump-3d",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Station 141",
@@ -2433,7 +2668,8 @@
         "url": "station-141",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stealing The Diamond",
@@ -2441,7 +2677,8 @@
         "url": "stealingthediamond",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stick Archers Battle",
@@ -2449,7 +2686,8 @@
         "url": "stick-archers-battle",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stickman",
@@ -2457,7 +2695,8 @@
         "url": "stickman",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stickman Boost",
@@ -2465,7 +2704,8 @@
         "url": "stickman-boost",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stickman Dismount",
@@ -2473,7 +2713,8 @@
         "url": "stickman-dismount",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stickman Epic Battle",
@@ -2481,7 +2722,8 @@
         "url": "stickman-epic-battle",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2490,7 +2732,8 @@
         "url": "stickman-golf",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stickman Survival",
@@ -2498,7 +2741,8 @@
         "url": "Stickman-Survival",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Stickwar",
@@ -2506,7 +2750,8 @@
         "url": "stickwar",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Storm The House 2",
@@ -2514,7 +2759,8 @@
         "url": "stormthehouse2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Subway Surfers",
@@ -2522,7 +2768,8 @@
         "url": "subway-surfers",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Subway Surfers Bali",
@@ -2530,7 +2777,8 @@
         "url": "subway-surfers-bali",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Super Mario Maker Online",
@@ -2538,7 +2786,8 @@
         "url": "super-mario-maker-online",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Super Puffer Fish 3D",
@@ -2546,7 +2795,8 @@
         "url": "super-puffer-fish-3d",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Sans Fight",
@@ -2554,7 +2804,8 @@
         "url": "/assets/games/sansfight/",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Burrito Bison",
@@ -2565,7 +2816,8 @@
             "hot",
             "new"
         ],
-        "size": "m",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "message": "This game is very large and may take up to 3 minutes load, please be patient!"
     },
     {
@@ -2574,7 +2826,8 @@
         "url": "superhero-io",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Superhot",
@@ -2582,7 +2835,8 @@
         "url": "superhot",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Swerve",
@@ -2590,7 +2844,8 @@
         "url": "swerve",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2599,7 +2854,8 @@
         "url": "synesthesia",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tactical Assasin 2",
@@ -2607,7 +2863,8 @@
         "url": "tacticalassasin2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tail Of The Dragon",
@@ -2615,7 +2872,8 @@
         "url": "tail-of-the-dragon",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2624,7 +2882,8 @@
         "url": "tam-indian-truck-simulator-3d",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tank Trouble 2",
@@ -2632,7 +2891,8 @@
         "url": "tank-trouble-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tanuki Sunset",
@@ -2640,7 +2900,8 @@
         "url": "tanuki-sunset",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Temple Run 2",
@@ -2648,7 +2909,8 @@
         "url": "temple-run-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Final Earth",
@@ -2656,7 +2918,8 @@
         "url": "the-final-earth",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Final Earth 2",
@@ -2664,7 +2927,8 @@
         "url": "the-final-earth-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Impossible Quiz",
@@ -2672,7 +2936,8 @@
         "url": "the-impossible-quiz",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Impossible Quiz 2",
@@ -2680,7 +2945,8 @@
         "url": "the-impossible-quiz-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Little Giant",
@@ -2688,7 +2954,8 @@
         "url": "the-little-giant",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Battle",
@@ -2696,7 +2963,8 @@
         "url": "thebattle",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Heist",
@@ -2704,7 +2972,8 @@
         "url": "theheist",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Space Goblins",
@@ -2712,7 +2981,8 @@
         "url": "themazeofspacegoblins",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "There Is No Game",
@@ -2720,7 +2990,8 @@
         "url": "there-is-no-game",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "The Only Level",
@@ -2728,7 +2999,8 @@
         "url": "thisistheonlylevel",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Level Devil",
@@ -2736,7 +3008,8 @@
         "url": "/assets/games/leveldevil/",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Time Shooter 3",
@@ -2744,7 +3017,8 @@
         "url": "time-shooter-3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tiny Fishing",
@@ -2752,7 +3026,8 @@
         "url": "tiny-fishing",
         "tags": [],
         "special": [],
-        "size": "m"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tiny Fragments",
@@ -2760,7 +3035,8 @@
         "url": "tiny-fragments",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tiny Islands",
@@ -2768,7 +3044,8 @@
         "url": "tiny-islands",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Topple Adventure",
@@ -2776,7 +3053,8 @@
         "url": "topple-adventure",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Toss The Turtle",
@@ -2784,7 +3062,8 @@
         "url": "tosstheturtle",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tough Growth",
@@ -2792,7 +3071,8 @@
         "url": "tough-growth",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Towermaster",
@@ -2800,7 +3080,8 @@
         "url": "towermaster",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2809,7 +3090,8 @@
         "url": "townscaper",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Trimps",
@@ -2817,7 +3099,8 @@
         "url": "trimps",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tube Jumpers",
@@ -2825,7 +3108,8 @@
         "url": "tube-jumpers",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tunnel Rush",
@@ -2833,7 +3117,8 @@
         "url": "tunnel-rush",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Tunnelz",
@@ -2841,7 +3126,8 @@
         "url": "tunnelz",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "TV Static",
@@ -2849,7 +3135,8 @@
         "url": "tv-static",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Twitch Tetris",
@@ -2857,7 +3144,8 @@
         "url": "twitch-tetris",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Underrun",
@@ -2865,7 +3153,8 @@
         "url": "underrun",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Up Left Out",
@@ -2873,7 +3162,8 @@
         "url": "up-left-out",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Veloce",
@@ -2881,7 +3171,8 @@
         "url": "veloce",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Vex 3",
@@ -2889,7 +3180,8 @@
         "url": "vex3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Vex 4",
@@ -2897,7 +3189,8 @@
         "url": "vex4",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Vex 5",
@@ -2905,7 +3198,8 @@
         "url": "vex5",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Vex 6",
@@ -2913,7 +3207,8 @@
         "url": "vex6",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Vex 7",
@@ -2921,7 +3216,8 @@
         "url": "vex7",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Waterworks",
@@ -2929,7 +3225,8 @@
         "url": "waterworks",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Webretro",
@@ -2937,7 +3234,8 @@
         "url": "webretro",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Winter Falling",
@@ -2945,7 +3243,8 @@
         "url": "winter-falling-price",
         "tags": [],
         "special": [],
-        "size": "s",
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
         "important": true
     },
     {
@@ -2954,7 +3253,8 @@
         "url": "wolf3d",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Wordle",
@@ -2962,7 +3262,8 @@
         "url": "wordle",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Worlds Hardest Game",
@@ -2970,7 +3271,8 @@
         "url": "worlds-hardest-game",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Worlds Hardest Game 2",
@@ -2978,7 +3280,8 @@
         "url": "worlds-hardest-game-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "X Trial Racing",
@@ -2986,7 +3289,8 @@
         "url": "x-trial-racing",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "XX142B2 exe",
@@ -2994,7 +3298,8 @@
         "url": "xx142-b2exe",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "You Are Bezos",
@@ -3002,7 +3307,8 @@
         "url": "you-are-bezos",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     },
     {
         "name": "Zombocalypse",
@@ -3010,6 +3316,7 @@
         "url": "zombocalypse",
         "tags": [],
         "special": [],
-        "size": "s"
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
     }
 ]

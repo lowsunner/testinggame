@@ -29,7 +29,7 @@ frame.onload = function () {
             const iframeDoc = frame.contentDocument || frame.contentWindow.document;
             const title = iframeDoc.title;
             if (title.includes('404') || title.includes('Not Found')) {
-                frame.src = 'https://enchanteddonutstudioz.github.io/the-math-hub-CDN/g/' + gameName;
+                frame.src = 'https://enchanteddonutstudioz.github.io/the-math-hub-CDN/g/' + frame.getAttribute('data-src').split('/')[3];
             }
         } catch (e) {
             console.log('Cannot access iframe content due to Same-Origin Policy.');
