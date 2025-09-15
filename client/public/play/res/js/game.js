@@ -1,42 +1,145 @@
 const frame = document.getElementById("game-frame");
+const loader = document.getElementById("game-loader");
+const loaderStatus = document.getElementById("loader-status");
+const progressFill = document.querySelector(".progress-fill");
 const gameName = document.title.split(' - ')[1] || 'Game';
+const gameImg = document.getElementById("game-img");
 
-document
-    .getElementById("reload-btn")
-    ?.addEventListener("click", () => {
-        frame.src = frame.src;
-    });
 
-const gameArea = document.getElementById("game-frame");
-document
-    .getElementById("fullscreen-btn")
-    ?.addEventListener("click", async () => {
-        try {
-            if (!document.fullscreenElement) {
-                await gameArea.requestFullscreen();
-            } else {
-                await document.exitFullscreen();
-            }
-        } catch (e) {
-            console.error(e);
+const loadingMessages = [
+    "Preparing your game...",
+    "Loading game assets...",
+    "Almost there...",
+    "Setting up the game environment...",
+    "Initializing game engine...",
+    "Not loading? Try refreshing!",
+    `${gameName}, is worth the wait!`,
+    `${gameName}, is gonna be great, trust.`,
+    `Not loading? Contact us on Discord!`,
+];
+
+let messageIndex = 0;
+let loadingMessageInterval;
+let progressInterval;
+let currentProgress = 0;
+
+function startLoading() {
+    frame.classList.add('loading');
+    loader.classList.remove('hidden');
+
+    loadingMessageInterval = setInterval(() => {
+        messageIndex = (messageIndex + 1) % loadingMessages.length;
+        if (loaderStatus) {
+            loaderStatus.textContent = loadingMessages[messageIndex];
         }
-    });
+    }, 2000);
 
 
-frame.onload = function () {
-    if (frame.contentWindow) {
-        try {
-            const iframeDoc = frame.contentDocument || frame.contentWindow.document;
-            const title = iframeDoc.title;
-            if (title.includes('404') || title.includes('Not Found')) {
-                frame.src = 'https://enchanteddonutstudioz.github.io/the-math-hub-CDN/g/' + frame.getAttribute('data-src').split('/')[3];
+    progressInterval = setInterval(() => {
+        if (currentProgress < 90) {
+            currentProgress += Math.random() * 15;
+            currentProgress = Math.min(currentProgress, 90);
+            if (progressFill) {
+                progressFill.style.width = `${currentProgress}%`;
             }
-        } catch (e) {
-            console.log('Cannot access iframe content due to Same-Origin Policy.');
         }
+    }, 300);
+}
+
+
+function stopLoading() {
+
+    if (progressFill) {
+        progressFill.style.width = '100%';
     }
 
-};
+
+    setTimeout(() => {
+        frame.classList.remove('loading');
+        frame.classList.add('loaded');
+        loader.classList.add('hidden');
+
+        clearInterval(loadingMessageInterval);
+        clearInterval(progressInterval);
+
+
+        currentProgress = 0;
+        if (progressFill) {
+            setTimeout(() => {
+                progressFill.style.width = '0%';
+            }, 500);
+        }
+    }, 500);
+}
+
+
+startLoading();
+
+
+frame.addEventListener('load', function () {
+
+    setTimeout(() => {
+        if (frame.contentWindow) {
+            try {
+                const iframeDoc = frame.contentDocument || frame.contentWindow.document;
+                const title = iframeDoc.title;
+
+                if (title.includes('404') || title.includes('Not Found')) {
+
+                    if (loaderStatus) {
+                        loaderStatus.textContent = "Trying alternate source...";
+                    }
+                    frame.src = 'https://enchanteddonutstudioz.github.io/the-math-hub-CDN/g/' +
+                        frame.getAttribute('data-src').split('/')[3];
+                } else {
+                    stopLoading();
+                }
+            } catch (e) {
+                console.log('Cannot access iframe content due to Same-Origin Policy.');
+
+                stopLoading();
+            }
+        } else {
+            stopLoading();
+        }
+    }, 1000);
+});
+
+frame.addEventListener('error', function () {
+    if (loaderStatus) {
+        loaderStatus.textContent = "Error loading game. Trying alternate source...";
+    }
+    setTimeout(() => {
+        frame.src = 'https://enchanteddonutstudioz.github.io/the-math-hub-CDN/g/' +
+            frame.getAttribute('data-src').split('/')[3];
+    }, 1000);
+});
+
+document.getElementById("reload-btn")?.addEventListener("click", () => {
+    startLoading();
+    frame.src = frame.src;
+});
+
+const gameArea = document.getElementById("game-frame");
+document.getElementById("fullscreen-btn")?.addEventListener("click", async () => {
+    try {
+        if (!document.fullscreenElement) {
+            await gameArea.requestFullscreen();
+        } else {
+            await document.exitFullscreen();
+        }
+    } catch (e) {
+        console.error(e);
+    }
+});
+
+if (gameImg) {
+    gameImg.onerror = function () {
+        this.onerror = null;
+        this.src = "https://enchanteddonutstudioz.github.io/the-math-hub-CDN/imgs/" + this.getAttribute('data-img').split('/').pop();
+    }
+    gameImg.src = gameImg.src;
+}
 
 
 async function loadMoreGames() {
@@ -90,3 +193,7 @@ if (document.readyState === 'loading') {
 } else {
     loadMoreGames();
 }
+
+document.querySelector('.logo')?.addEventListener('click', () => {
+    window.location.href = '/';
+});

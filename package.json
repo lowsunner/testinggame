@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "astro dev --port 3000",
     "build": "astro build",
+    "buildgames": "python3 scripts/build.py",
     "preview": "astro preview",
     "astro": "astro",
     "start": "node app.js"

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 import argparse
 import json
 from pathlib import Path
@@ -39,10 +39,10 @@ def build_pages(games, template_str: str, out_dir: Path, cdn_game_base: str, cle
 
         src = g.get('src') or f"{cdn_game_base.rstrip('/')}/{url}/"
         image = g.get('image') or '/img/placeholder.png'
-        # --- START OF CHANGES ---
+
         description = g.get('description') or 'No description available.'
         controls = g.get('controls') or 'No controls provided.'
-        # --- END OF CHANGES ---
+
 
         mapping = {
             'title': name,
@@ -51,10 +51,10 @@ def build_pages(games, template_str: str, out_dir: Path, cdn_game_base: str, cle
             'src': src,
             'image': image,
             'url': url,
-            # --- START OF CHANGES ---
+
             'description': description,
             'controls': controls,
-            # --- END OF CHANGES ---
+  
         }
 
         html = tpl.safe_substitute(mapping)

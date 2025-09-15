@@ -10,9 +10,82 @@
         "important": true
     },
     {
-        "name": "100 NG",
-        "image": "/cdn/imgs/100_ng.webp",
-        "url": "100ng",
+        "name": "Blocky Snakes",
+        "image": "/cdn/imgs/blocky_snakes.webp",
+        "url": "/assets/games/blockysnakes/",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Craftmine",
+        "image": "/cdn/imgs/craftmine.webp",
+        "url": "craftmine",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Creative Kill Chamber",
+        "image": "/cdn/imgs/creative_kill_chamber.webp",
+        "url": "creativekillchamber",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Crossy Road",
+        "image": "/cdn/imgs/crossy_road.webp",
+        "url": "crossyroad",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "CSGO Clicker",
+        "image": "/cdn/imgs/csgo_clicker.webp",
+        "url": "csgo-clicker",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Burning Man 2",
+        "image": "/cdn/imgs/burning_man_2.webp",
+        "url": "burning-man-2",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "City Blocks 2",
+        "image": "/cdn/imgs/city_blocks_2.webp",
+        "url": "city-blocks-2",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Clean Up .io",
+        "image": "/cdn/imgs/clean_up_.io.webp",
+        "url": "clean-up-io",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon",
+        "important": true
+    },
+    {
+        "name": "Cluster Rush",
+        "image": "/cdn/imgs/cluster_rush.webp",
+        "url": "cluster-rush",
         "tags": [],
         "special": [],
         "description": "Coming Soon",
@@ -74,36 +147,9 @@
         "controls": "Coming Soon"
     },
     {
-        "name": "Alien Invaders.io",
-        "image": "/cdn/imgs/alien_invaders.io.webp",
-        "url": "alien-invaders-io",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
         "name": "Alien Hominid",
         "image": "/cdn/imgs/alien_hominid.webp",
         "url": "alienhominid",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Align 4",
-        "image": "/cdn/imgs/align_4.webp",
-        "url": "align-4",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Among Us",
-        "image": "/cdn/imgs/among_us.webp",
-        "url": "among-us",
         "tags": [],
         "special": [],
         "description": "Coming Soon",
@@ -185,15 +231,6 @@
         "name": "Awesome Tanks 2",
         "image": "/cdn/imgs/awesome_tanks_2.webp",
         "url": "awesome-tanks-2",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Zombie Derby: Pixel Survival",
-        "image": "/cdn/imgs/zombie-derby.webp",
-        "url": "/assets/games/zombie-derby/",
         "tags": [],
         "special": [],
         "description": "Coming Soon",
@@ -353,15 +390,6 @@
         "controls": "Coming Soon"
     },
     {
-        "name": "Blocky Snakes",
-        "image": "/cdn/imgs/blocky_snakes.webp",
-        "url": "/assets/games/blockysnakes/",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
         "name": "Bloons TD",
         "image": "/cdn/imgs/bloons_td.webp",
         "url": "bloonstd",
@@ -470,15 +498,6 @@
         "controls": "Coming Soon"
     },
     {
-        "name": "Burning Man 2",
-        "image": "/cdn/imgs/burning_man_2.webp",
-        "url": "burning-man-2",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
         "name": "Cannon Basketball 4",
         "image": "/cdn/imgs/cannon_basketball_4.webp",
         "url": "cannon-basketball-4",
@@ -578,34 +597,6 @@
         "controls": "Coming Soon"
     },
     {
-        "name": "City Blocks 2",
-        "image": "/cdn/imgs/city_blocks_2.webp",
-        "url": "city-blocks-2",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Clean Up .io",
-        "image": "/cdn/imgs/clean_up_.io.webp",
-        "url": "clean-up-io",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon",
-        "important": true
-    },
-    {
-        "name": "Cluster Rush",
-        "image": "/cdn/imgs/cluster_rush.webp",
-        "url": "cluster-rush",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
         "name": "Color Switch 2 Challenges",
         "image": "/cdn/imgs/color_switch_2_challenges.webp",
         "url": "color-switch-2-challenges",
@@ -637,51 +628,6 @@
         "name": "Core Ball",
         "image": "/cdn/imgs/core_ball.webp",
         "url": "core-ball",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Craftmine",
-        "image": "/cdn/imgs/craftmine.webp",
-        "url": "craftmine",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Creative Kill Chamber",
-        "image": "/cdn/imgs/creative_kill_chamber.webp",
-        "url": "creativekillchamber",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Crossy Road",
-        "image": "/cdn/imgs/crossy_road.webp",
-        "url": "crossyroad",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Crowd City 2",
-        "image": "/cdn/imgs/crowd_city_2.webp",
-        "url": "/assets/games/crowdcity2/",
-        "tags": [],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "CSGO Clicker",
-        "image": "/cdn/imgs/csgo_clicker.webp",
-        "url": "csgo-clicker",
         "tags": [],
         "special": [],
         "description": "Coming Soon",
@@ -1738,22 +1684,6 @@
         "name": "Minecraft 1.12",
         "image": "/cdn/imgs/minecraft_1.12.webp",
         "url": "minecraft1.12",
-        "tags": [
-            "3D",
-            "Strategy",
-            "Action",
-            "Adventure",
-            "Multiplayer",
-            "Upgrade"
-        ],
-        "special": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Starlike Client",
-        "image": "/cdn/imgs/starlike.webp",
-        "url": "/assets/games/minecraft1.17.html",
         "tags": [
             "3D",
             "Strategy",
