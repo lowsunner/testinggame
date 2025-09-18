@@ -6,6 +6,7 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../res/css/game.css" />
+
     <title>${doc_title}</title>
 </head>
 
@@ -31,7 +32,9 @@
             <div class="main-grid">
                 <section aria-label="Game">
                     <div id="game-area" class="game-card">
-                        <iframe src="${src}" data-src="${src}" id="game-frame" frameborder="0"></iframe>
+                        <iframe src="${src}" data-src="${src}" id="game-frame" frameborder="0"
+                            sandbox="allow-scripts allow-same-origin allow-forms allow-pointer-lock">
+                        </iframe>
 
                         <div id="game-loader" class="game-loader">
                             <div class="loader-content">

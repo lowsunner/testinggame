@@ -40,19 +40,21 @@ header {
 
 #games {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, 280px);
     gap: 20px;
     padding: 20px;
-    align-items: center;
-    justify-items: center;
+    justify-content: center;
+    align-items: start;
 }
 
 .game-card {
-    width: 100%;
+    width: 280px;
     height: 170px;
     border-radius: 25px;
-    margin: 0;
+    position: relative;
+    overflow: hidden;
     transition: transform 0.3s ease;
+    background: transparent;
 }
 
 .game-card img {
@@ -77,6 +79,8 @@ header {
     opacity: 0;
     transition: all 0.2s ease;
     font-size: 1.2rem;
+    margin: 0;
+    pointer-events: none;
 }
 
 .game-card:hover {

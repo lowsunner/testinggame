@@ -10,9 +10,45 @@
         "important": true
     },
     {
+        "name": "OVO Dementions",
+        "image": "/cdn/imgs/ovo-dimensions.webp",
+        "url": "ovod",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Spiral Roll",
+        "image": "/cdn/imgs/craftmine.webp",
+        "url": "spiralroll",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Ragdoll Archers",
+        "image": "/cdn/imgs/craftmine.webp",
+        "url": "ragdollarchers",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Snow Rider 3D",
+        "image": "/cdn/imgs/snow-rider-3d.webp",
+        "url": "snowrider",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
         "name": "Blocky Snakes",
         "image": "/cdn/imgs/blocky_snakes.webp",
-        "url": "/assets/games/blockysnakes/",
+        "url": "blockysnakes",
         "tags": [],
         "special": [],
         "description": "Coming Soon",
@@ -1341,7 +1377,7 @@
     {
         "name": "Gunspin",
         "image": "/cdn/imgs/gunspin.webp",
-        "url": "/assets/games/gunspin/",
+        "url": "gunspin",
         "tags": [],
         "special": [],
         "description": "Coming Soon",
@@ -2731,7 +2767,7 @@
     {
         "name": "Sans Fight",
         "image": "/cdn/imgs/sans_fight.webp",
-        "url": "/assets/games/sansfight/",
+        "url": "sansfight",
         "tags": [],
         "special": [],
         "description": "Coming Soon",
@@ -2740,7 +2776,7 @@
     {
         "name": "Burrito Bison",
         "image": "/cdn/imgs/burritobison.webp",
-        "url": "/assets/games/burritobison/",
+        "url": "burritobison",
         "tags": [],
         "special": [
             "hot",
@@ -2935,7 +2971,7 @@
     {
         "name": "Level Devil",
         "image": "/cdn/imgs/level_devil.webp",
-        "url": "/assets/games/leveldevil/",
+        "url": "leveldevil",
         "tags": [],
         "special": [],
         "description": "Coming Soon",

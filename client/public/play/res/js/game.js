@@ -13,8 +13,8 @@ const loadingMessages = [
     "Setting up the game environment...",
     "Initializing game engine...",
     "Not loading? Try refreshing!",
-    `${gameName}, is worth the wait!`,
-    `${gameName}, is gonna be great, trust.`,
+    `${gameName} is worth the wait!`,
+    `${gameName} is gonna be great, trust.`,
     `Not loading? Contact us on Discord!`,
 ];
 

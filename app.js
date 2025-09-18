@@ -16,7 +16,7 @@ fastify.register(fastifyStatic, {
 });
 
 fastify.setNotFoundHandler((req, reply) => {
-    reply.sendFile('index.html');
+    reply.sendFile('404.html');
 });
 
 const start = async () => {
