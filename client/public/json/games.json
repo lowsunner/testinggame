@@ -19,8 +19,26 @@
         "controls": "Coming Soon"
     },
     {
+        "name": "Stickman GTA City",
+        "image": "/cdn/imgs/stickmangta.webp",
+        "url": "stickmangta",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Trains.io",
+        "image": "/cdn/imgs/trains.webp",
+        "url": "trainsio",
+        "tags": [],
+        "special": [],
+        "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
         "name": "Spiral Roll",
-        "image": "/cdn/imgs/craftmine.webp",
+        "image": "/cdn/imgs/spiral.webp",
         "url": "spiralroll",
         "tags": [],
         "special": [],
@@ -29,7 +47,7 @@
     },
     {
         "name": "Ragdoll Archers",
-        "image": "/cdn/imgs/craftmine.webp",
+        "image": "/cdn/imgs/ragdollarchers.webp",
         "url": "ragdollarchers",
         "tags": [],
         "special": [],

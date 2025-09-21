@@ -1,0 +1,58 @@
+---
+import Layout from "../layouts/layout.astro";
+---
+
+<Layout title="The Math Hub - Settings">
+	<div
+		id="background"
+		class="w-full h-screen fixed flex items-center justify-center text-white overflow-hidden">
+		<iframe
+			src="/pages/bg.html"
+			class="fixed top-0 left-0 w-full h-full -z-10 overflow-hidden"
+		></iframe>
+	</div>
+
+	<main class="settings-container">
+		<h1 id="aurora" class="z-1 mt-20">Settings</h1>
+
+		<div class="settings-panel">
+			<form>
+				<div class="settings-section">
+					<h2>Cloaking</h2>
+					<div class="setting-item">
+						<label for="cloaking">Tab Cloak</label>
+						<div class="button-group">
+							<button id="classroom">
+								<img
+									src="img/googleclassroom.png"
+									alt="Google Classroom"
+									class="max-w-6"
+								/>
+							</button>
+							<button id="clever">
+								<img
+									src="img/clever.jpg"
+									alt="clever"
+									class="max-w-6"
+								/>
+							</button>
+							<button id="math">
+								<img
+									src="img/mathhub.png"
+									alt="math hub"
+									class="max-w-6"
+								/>
+							</button>
+						</div>
+					</div>
+					<div class="setting-item">
+						<label for="ab">Open in about:blank</label>
+						<button id="ab"> Open </button>
+					</div>
+				</div>
+			</form>
+		</div>
+		<script src="../scripts/cloak"></script>
+		<script src="../scripts/settings"></script>
+	</main>
+</Layout>
