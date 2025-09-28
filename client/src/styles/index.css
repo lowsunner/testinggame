@@ -379,3 +379,109 @@ input:checked+.slider:before {
 }
 
 /* === END: SETTINGS PAGE === */
+
+.f-game-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    height: 70vh;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#featured {
+    background: transparent;
+    position: relative;
+    z-index: 20;
+}
+
+.f-game-card:nth-child(1) {
+    animation-delay: 0.1s;
+}
+
+.f-game-card:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.f-game-card:nth-child(3) {
+    animation-delay: 0.3s;
+}
+
+.f-game-card:nth-child(4) {
+    animation-delay: 0.4s;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.f-game-card .game-image {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.f-game-card:hover .game-image {
+    transform: scale(1.05);
+}
+
+.f-game-card button {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-size: 0.875rem;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(31, 41, 55, 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4b5563;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #6b7280;
+}
+
+#hero {
+    will-change: transform;
+    transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+#disc {
+    background: linear-gradient(90deg, #003cff, #0091ff, #55ddff, #003cff);
+    background-position: 0% 00%;
+    background-size: 400% 400%;
+    transition: all 0.3s ease-in-out;
+    box-shadow: #0091ff 0px 0px 0px;
+    border-radius: 20px;
+    cursor: pointer;
+    z-index: 100;
+    width: 270px;
+    height: 70px;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    color: white;
+    box-shadow: #0091ff 0px 0px 15px;
+}
+
+#disc:hover {
+    transform: scale(1.05);
+    box-shadow: #0091ff 0px 0px 15px;
+    animation: aurora 15s infinite linear;
+}
