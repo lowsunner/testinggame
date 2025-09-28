@@ -5,13 +5,13 @@ function setCloak(type: string) {
 
     if (type === "classroom") {
         title = "Home";
-        favicon = "img/classroomfavicon.ico";
+        favicon = "/img/classroomfavicon.ico";
     } else if (type === "clever") {
         title = "Clever | Portal";
-        favicon = "img/clever.jpg";
+        favicon = "/img/clever.jpg";
     } else if (type === "none") {
         title = "The Math Hub";
-        favicon = "img/mathhub.png";
+        favicon = "/img/mathhub.png";
     }
 
     document.title = title;
