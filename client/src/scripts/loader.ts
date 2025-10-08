@@ -1,11 +1,25 @@
 // Smooth page loader
+let loaderRemoveTimeout: number | undefined;
+
+function removeLoaderImmediate(loader: HTMLElement | null) {
+    if (!loader) return;
+    // fade out then remove
+    loader.style.opacity = '0';
+    // small delay to match the CSS transition before removing
+    setTimeout(() => {
+        if (loader.parentNode) loader.parentNode.removeChild(loader);
+    }, 300);
+}
+
 window.addEventListener('load', () => {
-    const loader = document.getElementById('page-loader');
+    const loader = document.getElementById('page-loader') as HTMLElement | null;
     if (loader) {
-        loader.style.opacity = '0';
-        setTimeout(() => {
-            loader.style.display = 'none';
-        }, 300);
+        // Cancel the fallback removal if it's pending
+        if (loaderRemoveTimeout !== undefined) {
+            clearTimeout(loaderRemoveTimeout);
+            loaderRemoveTimeout = undefined;
+        }
+        removeLoaderImmediate(loader);
     }
 });
 
@@ -49,16 +63,25 @@ const loaderCSS = `
 `;
 
 // Inject loader
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => {
-        document.body.insertAdjacentHTML('afterbegin', loaderHTML);
-        const style = document.createElement('style');
-        style.textContent = loaderCSS;
-        document.head.appendChild(style);
-    });
-} else {
+function injectLoaderAndScheduleFallback() {
     document.body.insertAdjacentHTML('afterbegin', loaderHTML);
     const style = document.createElement('style');
     style.textContent = loaderCSS;
     document.head.appendChild(style);
+
+    const loader = document.getElementById('page-loader') as HTMLElement | null;
+    if (loader) {
+        // Ensure a fallback removal after 6 seconds in case load never fires
+        loaderRemoveTimeout = window.setTimeout(() => {
+            // fade + remove
+            removeLoaderImmediate(loader);
+            loaderRemoveTimeout = undefined;
+        }, 6000);
+    }
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', injectLoaderAndScheduleFallback);
+} else {
+    injectLoaderAndScheduleFallback();
 }
