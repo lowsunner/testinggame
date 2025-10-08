@@ -13,30 +13,30 @@ import Layout from "../layouts/layout.astro";
 	</div>
 
 	<main class="settings-container">
-		<h1 id="aurora" class="z-1 mt-20">Settings</h1>
+		<h1 id="aurora" class="z-1 mt-20 mb-8">Settings</h1>
 
 		<div class="settings-panel">
 			<form>
 				<div class="settings-section">
-					<h2>Cloaking</h2>
+					<h2>🎭 Cloaking</h2>
 					<div class="setting-item">
 						<label for="cloaking">Tab Cloak</label>
 						<div class="button-group">
-							<button id="classroom">
+							<button id="classroom" type="button">
 								<img
 									src="/img/googleclassroom.png"
 									alt="Google Classroom"
 									class="max-w-6"
 								/>
 							</button>
-							<button id="clever">
+							<button id="clever" type="button">
 								<img
 									src="/img/clever.jpg"
 									alt="clever"
 									class="max-w-6"
 								/>
 							</button>
-							<button id="math">
+							<button id="math" type="button">
 								<img
 									src="/img/mathhub.png"
 									alt="math hub"
@@ -47,12 +47,13 @@ import Layout from "../layouts/layout.astro";
 					</div>
 					<div class="setting-item">
 						<label for="ab">Open in about:blank</label>
-						<button id="ab"> Open </button>
+						<button id="ab" type="button"> Open </button>
 					</div>
 				</div>
 			</form>
 		</div>
 		<script src="../scripts/cloak"></script>
 		<script src="../scripts/settings"></script>
+		<script src="../scripts/enhancements"></script>
 	</main>
 </Layout>
