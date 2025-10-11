@@ -1,3 +1,5 @@
+import { setCloak } from "./cloak";
+
 const classroom = document.getElementById("classroom");
 const clever = document.getElementById("clever");
 const math = document.getElementById("math");

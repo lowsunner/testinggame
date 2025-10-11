@@ -168,7 +168,14 @@ async function loadMoreGames() {
             const fallbackImageUrl = `https://enchanteddonutstudioz.github.io/the-math-hub-CDN/imgs/${game.image.split('/').pop()}`;
 
             const tile = document.createElement('a');
-            tile.href = `/play/${game.url}/`;
+            if (game.url === "sug") {
+                tile.addEventListener('click', () => {
+                    window.open('https://discord.com/invite/ejP36Bb44r', '_blank');
+                });
+            }
+            else {
+                tile.href = `/play/${game.url}/`;
+            }
             tile.className = 'game-tile';
             tile.innerHTML = `
             <div class="tile-image">
@@ -198,7 +205,8 @@ document.querySelector('.logo')?.addEventListener('click', () => {
     window.location.href = '/';
 });
 
-function setCloak(type) {
+
+function setGameCloak(type) {
     let title = "The Math Hub";
     let favicon = "img/mathhub.png";
 
@@ -225,9 +233,9 @@ function setCloak(type) {
 }
 
 
-const savedCloak = localStorage.getItem("tabCloak");
-if (savedCloak) {
-    setCloak(savedCloak);
+const savedGameCloak = localStorage.getItem("tabCloak");
+if (savedGameCloak) {
+    setGameCloak(savedGameCloak);
 } else {
-    setCloak("none");
+    setGameCloak("none");
 }

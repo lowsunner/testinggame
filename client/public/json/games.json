@@ -1,5 +1,14 @@
 [
     {
+        "name": "Suggest a Game",
+        "image": "img/discordlogo.webp",
+        "url": "sug",
+        "tags": [],
+        "categories": [
+            "All"
+        ]
+    },
+    {
         "name": "10 Minutes Till Dawn",
         "image": "/cdn/imgs/10_minutes_till_dawn.webp",
         "url": "10-minutes-till-dawn",
@@ -2144,63 +2153,9 @@
         "controls": "Coming Soon"
     },
     {
-        "name": "Papa's Burgeria",
-        "image": "/cdn/imgs/papa's_burgeria.webp",
-        "url": "papas-burgeria",
-        "tags": [],
-        "categories": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Papa's Freezeria",
-        "image": "/cdn/imgs/papa's_freezeria.webp",
-        "url": "papas-freezeria",
-        "tags": [],
-        "categories": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Papas Hot Doggeria",
-        "image": "/cdn/imgs/papas_hot_doggeria.webp",
-        "url": "papas-hot-doggeria",
-        "tags": [],
-        "categories": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Papa's Pancakeria",
-        "image": "/cdn/imgs/papa's_pancakeria.webp",
-        "url": "papas-pancakeria",
-        "tags": [],
-        "categories": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
         "name": "Papas Pizzeria",
         "image": "/cdn/imgs/papas_pizzeria.webp",
         "url": "papas-pizzeria",
-        "tags": [],
-        "categories": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Papa's Sushiria",
-        "image": "/cdn/imgs/papa's_sushiria.webp",
-        "url": "papas-sushiria",
-        "tags": [],
-        "categories": [],
-        "description": "Coming Soon",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Papa's Wingeria",
-        "image": "/cdn/imgs/papa's_wingeria.webp",
-        "url": "papas-wingeria",
         "tags": [],
         "categories": [],
         "description": "Coming Soon",

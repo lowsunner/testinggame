@@ -1,5 +1,5 @@
 
-function setCloak(type: string) {
+export function setCloak(type: string) {
     let title = "The Math Hub";
     let favicon = "img/mathhub.png";
 

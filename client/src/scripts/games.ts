@@ -127,6 +127,12 @@ function renderGames(games: any[]) {
     }).join('');
 
     document.querySelectorAll('.game-card').forEach(card => {
+        if (card.getAttribute('data-link') == '/play/sug/') {
+            card.addEventListener('click', () => {
+                window.open('https://discord.com/invite/ejP36Bb44r', '_blank');
+            });
+            return;
+        }
         card.addEventListener('click', () => {
             const link = card.getAttribute('data-link');
             if (link) {
