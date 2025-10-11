@@ -71,12 +71,12 @@ function injectLoaderAndScheduleFallback() {
 
     const loader = document.getElementById('page-loader') as HTMLElement | null;
     if (loader) {
-        // Ensure a fallback removal after 6 seconds in case load never fires
+        // Ensure a fallback removal after 3 seconds in case load never fires
         loaderRemoveTimeout = window.setTimeout(() => {
             // fade + remove
             removeLoaderImmediate(loader);
             loaderRemoveTimeout = undefined;
-        }, 6000);
+        }, 3000);
     }
 }
 

@@ -4,7 +4,7 @@
         "image": "/cdn/imgs/10_minutes_till_dawn.webp",
         "url": "10-minutes-till-dawn",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -14,7 +14,7 @@
         "image": "/cdn/imgs/golforbit.webp",
         "url": "golforbit",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -23,7 +23,7 @@
         "image": "/cdn/imgs/blumgislime.webp",
         "url": "blumgislime",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -32,7 +32,7 @@
         "image": "/cdn/imgs/sausage-flip.webp",
         "url": "sausage-flip",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -41,7 +41,7 @@
         "image": "/cdn/imgs/tunnel_rush.webp",
         "url": "tunnel-rush",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -50,7 +50,7 @@
         "image": "/cdn/imgs/retro_bowl.webp",
         "url": "retro-bowl",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -59,7 +59,7 @@
         "image": "/cdn/imgs/ovo-dimensions.webp",
         "url": "ovod",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -68,7 +68,7 @@
         "image": "/cdn/imgs/stickmangta.webp",
         "url": "stickmangta",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -77,7 +77,7 @@
         "image": "/cdn/imgs/level_devil.webp",
         "url": "leveldevil",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -86,7 +86,10 @@
         "image": "/cdn/imgs/time_shooter_3.webp",
         "url": "time-shooter-3",
         "tags": [],
-        "special": [],
+        "categories": [
+            "PC Games",
+            "Action"
+        ],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -95,7 +98,7 @@
         "image": "/cdn/imgs/tiny_fishing.webp",
         "url": "tiny-fishing",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -104,7 +107,7 @@
         "image": "/cdn/imgs/trains.webp",
         "url": "trainsio",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -113,7 +116,7 @@
         "image": "/cdn/imgs/spiral.webp",
         "url": "spiralroll",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -122,7 +125,7 @@
         "image": "/cdn/imgs/ragdollarchers.webp",
         "url": "ragdollarchers",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -131,7 +134,7 @@
         "image": "/cdn/imgs/snow-rider-3d.webp",
         "url": "snowrider",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -140,7 +143,7 @@
         "image": "/cdn/imgs/blocky_snakes.webp",
         "url": "blockysnakes",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -149,7 +152,7 @@
         "image": "/cdn/imgs/up_left_out.webp",
         "url": "up-left-out",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -158,7 +161,7 @@
         "image": "/cdn/imgs/veloce.webp",
         "url": "veloce",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -167,7 +170,7 @@
         "image": "/cdn/imgs/vex_3.webp",
         "url": "vex3",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -176,7 +179,7 @@
         "image": "/cdn/imgs/vex_4.webp",
         "url": "vex4",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -185,7 +188,7 @@
         "image": "/cdn/imgs/vex_5.webp",
         "url": "vex5",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -194,7 +197,7 @@
         "image": "/cdn/imgs/vex_6.webp",
         "url": "vex6",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -203,7 +206,7 @@
         "image": "/cdn/imgs/vex_7.webp",
         "url": "vex7",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -212,7 +215,7 @@
         "image": "/cdn/imgs/waterworks.webp",
         "url": "waterworks",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -221,7 +224,7 @@
         "image": "/cdn/imgs/webretro.webp",
         "url": "webretro",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -230,7 +233,7 @@
         "image": "/cdn/imgs/winter_falling_price.webp",
         "url": "winter-falling-price",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -240,7 +243,7 @@
         "image": "/cdn/imgs/craftmine.webp",
         "url": "craftmine",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -249,7 +252,7 @@
         "image": "/cdn/imgs/creative_kill_chamber.webp",
         "url": "creativekillchamber",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -258,7 +261,7 @@
         "image": "/cdn/imgs/crossy_road.webp",
         "url": "crossyroad",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -267,7 +270,7 @@
         "image": "/cdn/imgs/csgo_clicker.webp",
         "url": "csgo-clicker",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -276,7 +279,7 @@
         "image": "/cdn/imgs/burning_man_2.webp",
         "url": "burning-man-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -285,7 +288,7 @@
         "image": "/cdn/imgs/city_blocks_2.webp",
         "url": "city-blocks-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -294,7 +297,7 @@
         "image": "/cdn/imgs/clean_up_.io.webp",
         "url": "clean-up-io",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -304,7 +307,7 @@
         "image": "/cdn/imgs/cluster_rush.webp",
         "url": "cluster-rush",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -313,7 +316,7 @@
         "image": "/cdn/imgs/2020_game.webp",
         "url": "2020-game",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -322,7 +325,7 @@
         "image": "/cdn/imgs/2048.webp",
         "url": "2048",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -331,7 +334,7 @@
         "image": "/cdn/imgs/achievement_unlocked.webp",
         "url": "achievementunlocked",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -340,7 +343,7 @@
         "image": "/cdn/imgs/a_dark_room.webp",
         "url": "adarkroom",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -350,7 +353,7 @@
         "image": "/cdn/imgs/adrenaline_challenge.webp",
         "url": "adrenalinechallenge",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -359,7 +362,7 @@
         "image": "/cdn/imgs/age_of_war.webp",
         "url": "age-of-war",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -368,7 +371,7 @@
         "image": "/cdn/imgs/alien_hominid.webp",
         "url": "alienhominid",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -377,7 +380,7 @@
         "image": "/cdn/imgs/angry_birds.webp",
         "url": "angry-birds",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -386,7 +389,7 @@
         "image": "/cdn/imgs/anti-terrorist_rush.webp",
         "url": "anti-terrorist-rush",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -395,7 +398,7 @@
         "image": "/cdn/imgs/arcade_wizard.webp",
         "url": "arcade-wizard",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -404,7 +407,7 @@
         "image": "/cdn/imgs/asciispace.webp",
         "url": "asciispace",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -413,7 +416,7 @@
         "image": "/cdn/imgs/aspiring_artist.webp",
         "url": "aspiring-artist",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -422,7 +425,7 @@
         "image": "/cdn/imgs/asteroids.webp",
         "url": "asteroids",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -431,7 +434,7 @@
         "image": "/cdn/imgs/astray.webp",
         "url": "astray",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -440,7 +443,7 @@
         "image": "/cdn/imgs/avalanche.webp",
         "url": "avalanche",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -449,7 +452,7 @@
         "image": "/cdn/imgs/awesome_tanks_2.webp",
         "url": "awesome-tanks-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -458,7 +461,7 @@
         "image": "/cdn/imgs/backcountry.webp",
         "url": "backcountry",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -467,7 +470,7 @@
         "image": "/cdn/imgs/backflip_dive_3d.webp",
         "url": "backflip-dive-3d",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -476,7 +479,7 @@
         "image": "/cdn/imgs/backrooms.webp",
         "url": "backrooms",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -485,7 +488,7 @@
         "image": "/cdn/imgs/bad_ice_cream.webp",
         "url": "bad-ice-cream",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -494,7 +497,7 @@
         "image": "/cdn/imgs/bad_ice_cream_2.webp",
         "url": "bad-ice-cream-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -503,7 +506,7 @@
         "image": "/cdn/imgs/bad_ice_cream_3.webp",
         "url": "bad-ice-cream-3",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -512,7 +515,7 @@
         "image": "/cdn/imgs/baldis_basics.webp",
         "url": "baldis-basics",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -521,7 +524,7 @@
         "image": "/cdn/imgs/basket_bros_.io.webp",
         "url": "basket-bros-io",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -530,7 +533,7 @@
         "image": "/cdn/imgs/basketballio.webp",
         "url": "basketball-io",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -539,7 +542,7 @@
         "image": "/cdn/imgs/basketball_legends_2020.webp",
         "url": "basketball-legends-2020",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -548,7 +551,7 @@
         "image": "/cdn/imgs/basketball_stars.webp",
         "url": "basketball-stars",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -557,7 +560,7 @@
         "image": "/cdn/imgs/battleforgondor.webp",
         "url": "battleforgondor",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -566,7 +569,7 @@
         "image": "/cdn/imgs/bigredbutton.webp",
         "url": "bigredbutton",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -575,7 +578,7 @@
         "image": "/cdn/imgs/binding_of_isaac.webp",
         "url": "binding-of-isaac",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -584,7 +587,7 @@
         "image": "/cdn/imgs/bitlife.webp",
         "url": "bitlife",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -593,7 +596,7 @@
         "image": "/cdn/imgs/black_hole_square.webp",
         "url": "blackholesquare",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -602,7 +605,7 @@
         "image": "/cdn/imgs/blackknight.webp",
         "url": "blackknight",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -611,7 +614,7 @@
         "image": "/cdn/imgs/bloons_td.webp",
         "url": "bloonstd",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -620,7 +623,7 @@
         "image": "/cdn/imgs/bloons_td_2.webp",
         "url": "bloonstd2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -629,7 +632,7 @@
         "image": "/cdn/imgs/bloxors.webp",
         "url": "bloxors",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -638,7 +641,7 @@
         "image": "/cdn/imgs/bounceback.webp",
         "url": "bounceback",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -647,7 +650,7 @@
         "image": "/cdn/imgs/boxel_rebound.webp",
         "url": "boxel-rebound",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -656,7 +659,7 @@
         "image": "/cdn/imgs/boxhead2play.webp",
         "url": "boxhead2play",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -665,7 +668,7 @@
         "image": "/cdn/imgs/brave_explorers.webp",
         "url": "brave-explorers",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -674,7 +677,7 @@
         "image": "/cdn/imgs/breaking_the_bank.webp",
         "url": "breakingthebank",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -683,7 +686,7 @@
         "image": "/cdn/imgs/breaklock.webp",
         "url": "breaklock",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -692,7 +695,7 @@
         "image": "/cdn/imgs/breakout.webp",
         "url": "breakout",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -701,7 +704,7 @@
         "image": "/cdn/imgs/bloons_td_4.webp",
         "url": "btd4",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -710,7 +713,7 @@
         "image": "/cdn/imgs/big_tower_tiny_square.webp",
         "url": "btts",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -719,7 +722,7 @@
         "image": "/cdn/imgs/cannon_basketball_4.webp",
         "url": "cannon-basketball-4",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -728,7 +731,7 @@
         "image": "/cdn/imgs/canyondefense.webp",
         "url": "canyondefense",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -737,7 +740,7 @@
         "image": "/cdn/imgs/captaincallisto.webp",
         "url": "captaincallisto",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -746,7 +749,7 @@
         "image": "/cdn/imgs/cars_simulator.webp",
         "url": "cars-simulator",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -755,7 +758,7 @@
         "image": "/cdn/imgs/cell_machine.webp",
         "url": "cell-machine",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -764,7 +767,7 @@
         "image": "/cdn/imgs/championarcher.webp",
         "url": "championarcher",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -773,7 +776,10 @@
         "image": "/cdn/imgs/chess.webp",
         "url": "chess",
         "tags": [],
-        "special": [],
+        "categories": [
+            "Puzzle",
+            "Strategy"
+        ],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -782,7 +788,7 @@
         "image": "/cdn/imgs/chill_radio.webp",
         "url": "chill-radio",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -791,7 +797,7 @@
         "image": "/cdn/imgs/chroma.webp",
         "url": "chromaincident",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -800,7 +806,7 @@
         "image": "/cdn/imgs/chrome_dino.webp",
         "url": "chrome-dino",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -809,7 +815,7 @@
         "image": "/cdn/imgs/circlo.webp",
         "url": "circlo",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -818,7 +824,7 @@
         "image": "/cdn/imgs/color_switch_2_challenges.webp",
         "url": "color-switch-2-challenges",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -827,7 +833,7 @@
         "image": "/cdn/imgs/connect_3.webp",
         "url": "connect3",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -836,7 +842,7 @@
         "image": "/cdn/imgs/cookie_clicker.webp",
         "url": "cookie-clicker",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -846,7 +852,7 @@
         "image": "/cdn/imgs/core_ball.webp",
         "url": "core-ball",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -855,7 +861,7 @@
         "image": "/cdn/imgs/cubefield.webp",
         "url": "cubefield",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -864,7 +870,7 @@
         "image": "/cdn/imgs/cupcake_2048.webp",
         "url": "cupcake2048",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -873,7 +879,7 @@
         "image": "/cdn/imgs/cut_the_rope.webp",
         "url": "ctr",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -882,7 +888,7 @@
         "image": "/cdn/imgs/dante.webp",
         "url": "dante",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -891,7 +897,7 @@
         "image": "/cdn/imgs/deal_or_no_deal.webp",
         "url": "deal-or-no-deal",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -900,7 +906,7 @@
         "image": "/cdn/imgs/death_run_3d.webp",
         "url": "death-run-3d",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -909,7 +915,7 @@
         "image": "/cdn/imgs/death_soul.webp",
         "url": "death-soul",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -918,7 +924,7 @@
         "image": "/cdn/imgs/defend_the_tank.webp",
         "url": "defend-the-tank",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -927,7 +933,7 @@
         "image": "/cdn/imgs/doctor_acorn_2.webp",
         "url": "doctor-acorn2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -936,7 +942,7 @@
         "image": "/cdn/imgs/dodge.webp",
         "url": "dodge",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -945,7 +951,7 @@
         "image": "/cdn/imgs/doge_miner_2.webp",
         "url": "doge-miner-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -954,7 +960,7 @@
         "image": "/cdn/imgs/doge_mining_simulator.webp",
         "url": "doge-mining-simulator",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -963,7 +969,7 @@
         "image": "/cdn/imgs/doge_2048.webp",
         "url": "doge2048",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -972,7 +978,7 @@
         "image": "/cdn/imgs/dogeminer.webp",
         "url": "DogeMiner",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -981,7 +987,7 @@
         "image": "/cdn/imgs/dont_drop_the_white_ball_2.webp",
         "url": "dont-drop-the-white-ball-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -990,7 +996,7 @@
         "image": "/cdn/imgs/doodle_jump.webp",
         "url": "doodle-jump",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -999,7 +1005,7 @@
         "image": "/cdn/imgs/doublewires.webp",
         "url": "doublewires",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1008,7 +1014,7 @@
         "image": "/cdn/imgs/douchebag_workout_2.webp",
         "url": "douchebag-workout-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1017,7 +1023,7 @@
         "image": "/cdn/imgs/dragon_vs_bricks.webp",
         "url": "dragon-vs-bricks",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1026,7 +1032,7 @@
         "image": "/cdn/imgs/draw_the_hill.webp",
         "url": "draw-the-hill",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1035,7 +1041,7 @@
         "image": "/cdn/imgs/drive_mad.webp",
         "url": "drive-mad",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -1045,7 +1051,7 @@
         "image": "/cdn/imgs/duck_life_treasure_hunt.webp",
         "url": "duck-life-treasurehunt",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1054,7 +1060,7 @@
         "image": "/cdn/imgs/duck_life.webp",
         "url": "ducklife",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1063,7 +1069,7 @@
         "image": "/cdn/imgs/duck_life_2.webp",
         "url": "ducklife2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1072,7 +1078,7 @@
         "image": "/cdn/imgs/duck_life_3.webp",
         "url": "ducklife3",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1081,7 +1087,7 @@
         "image": "/cdn/imgs/duck_life_4.webp",
         "url": "ducklife4",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1090,7 +1096,7 @@
         "image": "/cdn/imgs/duke_dashington_remastered.webp",
         "url": "duke-dashington-remastered",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1099,7 +1105,7 @@
         "image": "/cdn/imgs/dungeon_craft.webp",
         "url": "dungeon-craft",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1108,7 +1114,7 @@
         "image": "/cdn/imgs/edge_surf.webp",
         "url": "edge-surf",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1117,7 +1123,7 @@
         "image": "/cdn/imgs/edge_not_found.webp",
         "url": "edgenotfound",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1126,7 +1132,7 @@
         "image": "/cdn/imgs/elasticman.webp",
         "url": "elastic-face",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1135,7 +1141,7 @@
         "image": "/cdn/imgs/emulator_js.webp",
         "url": "emulator-js",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1144,7 +1150,7 @@
         "image": "/cdn/imgs/endlesswar_3.webp",
         "url": "endlesswar3",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1153,7 +1159,7 @@
         "image": "/cdn/imgs/escapingtheprison.webp",
         "url": "escapingtheprison",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1162,7 +1168,7 @@
         "image": "/cdn/imgs/evil_glitch.webp",
         "url": "evil-glitch",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1171,7 +1177,7 @@
         "image": "/cdn/imgs/evolution.webp",
         "url": "evolution",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1180,7 +1186,7 @@
         "image": "/cdn/imgs/exo.webp",
         "url": "exo",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1189,7 +1195,7 @@
         "image": "/cdn/imgs/factory_balls_forever.webp",
         "url": "factory-balls-forever",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1198,7 +1204,7 @@
         "image": "/cdn/imgs/factoryballs.webp",
         "url": "factoryballs",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1207,7 +1213,7 @@
         "image": "/cdn/imgs/fake_virus.webp",
         "url": "fake-virus",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1216,7 +1222,7 @@
         "image": "/cdn/imgs/fancypantsadventures.webp",
         "url": "fancypantsadventures",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1225,7 +1231,7 @@
         "image": "/cdn/imgs/fbwg.webp",
         "url": "fbwg",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1234,7 +1240,7 @@
         "image": "/cdn/imgs/finns_fantastic_food_machine.webp",
         "url": "finns-fantastic-food-machine",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1243,7 +1249,7 @@
         "image": "/cdn/imgs/fireice.webp",
         "url": "fireice",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1252,7 +1258,7 @@
         "image": "/cdn/imgs/flappy_2048.webp",
         "url": "flappy-2048",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -1262,7 +1268,10 @@
         "image": "/cdn/imgs/flappy_bird.webp",
         "url": "flappy-bird",
         "tags": [],
-        "special": [],
+        "categories": [
+            "Arcade",
+            "Action"
+        ],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1271,7 +1280,7 @@
         "image": "/cdn/imgs/flappy_defense.webp",
         "url": "flappy-defense",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1280,7 +1289,7 @@
         "image": "/cdn/imgs/flashtetris.webp",
         "url": "flashtetris",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1289,7 +1298,7 @@
         "image": "/cdn/imgs/flippy_fish.webp",
         "url": "flippy-fish",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1298,7 +1307,7 @@
         "image": "/cdn/imgs/flood_runner_2.webp",
         "url": "flood-runner-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1307,7 +1316,7 @@
         "image": "/cdn/imgs/fridaynightfunkin.webp",
         "url": "fridaynightfunkin",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1316,7 +1325,7 @@
         "image": "/cdn/imgs/friendly_fire.webp",
         "url": "friendlyfire",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1325,7 +1334,7 @@
         "image": "/cdn/imgs/froggys_battle.webp",
         "url": "froggys-battle",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1334,7 +1343,7 @@
         "image": "/cdn/imgs/fruit_ninja.webp",
         "url": "fruitninja",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1343,7 +1352,7 @@
         "image": "/cdn/imgs/frying_nemo.webp",
         "url": "frying-nemo",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1352,7 +1361,7 @@
         "image": "/cdn/imgs/game_inside.webp",
         "url": "game-inside",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1361,7 +1370,7 @@
         "image": "/cdn/imgs/generic_fishing_game.webp",
         "url": "generic-fishing-game",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1370,7 +1379,7 @@
         "image": "/cdn/imgs/geodash.webp",
         "url": "geodash",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1379,7 +1388,7 @@
         "image": "/cdn/imgs/geodash_2.webp",
         "url": "geodash-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1388,7 +1397,7 @@
         "image": "/cdn/imgs/georgeandtheprinter.webp",
         "url": "georgeandtheprinter",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1397,7 +1406,7 @@
         "image": "/cdn/imgs/getaway_shootout.webp",
         "url": "getaway-shootout",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1406,7 +1415,7 @@
         "image": "/cdn/imgs/getting_over_it.webp",
         "url": "getting-over-it",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1415,7 +1424,7 @@
         "image": "/cdn/imgs/gimme_the_airpod.webp",
         "url": "gimme-the-airpod",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1424,7 +1433,7 @@
         "image": "/cdn/imgs/glass_city.webp",
         "url": "glass-city",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1433,7 +1442,7 @@
         "image": "/cdn/imgs/go_ball.webp",
         "url": "go-ball",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1442,7 +1451,7 @@
         "image": "/cdn/imgs/golf.webp",
         "url": "golf",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1451,7 +1460,7 @@
         "image": "/cdn/imgs/goodnight.webp",
         "url": "goodnight",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1460,7 +1469,7 @@
         "image": "/cdn/imgs/google_snake.webp",
         "url": "google-snake",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1469,7 +1478,7 @@
         "image": "/cdn/imgs/google_solitaire.webp",
         "url": "google-solitaire",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1478,7 +1487,7 @@
         "image": "/cdn/imgs/gopher.webp",
         "url": "gopher",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1487,7 +1496,7 @@
         "image": "/cdn/imgs/gravity_soccer.webp",
         "url": "gravity-soccer",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1496,7 +1505,7 @@
         "image": "/cdn/imgs/green.webp",
         "url": "green",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1505,7 +1514,7 @@
         "image": "/cdn/imgs/greybox.webp",
         "url": "greybox",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1514,7 +1523,7 @@
         "image": "/cdn/imgs/grindcraft.webp",
         "url": "grindcraft",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -1524,7 +1533,7 @@
         "image": "/cdn/imgs/grow_in_the_hole.webp",
         "url": "grow-in-the-hole",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1533,7 +1542,7 @@
         "image": "/cdn/imgs/gun_mayhem.webp",
         "url": "gun-mayhem",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1542,7 +1551,7 @@
         "image": "/cdn/imgs/gun_mayhem_2.webp",
         "url": "gun-mayhem-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1551,7 +1560,7 @@
         "image": "/cdn/imgs/gun_mayhem_redux.webp",
         "url": "gun-mayhem-redux",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1560,7 +1569,7 @@
         "image": "/cdn/imgs/gunspin.webp",
         "url": "gunspin",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1569,7 +1578,7 @@
         "image": "/cdn/imgs/hackertyper.webp",
         "url": "hackertype",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1578,7 +1587,7 @@
         "image": "/cdn/imgs/happy_hop.webp",
         "url": "happy-hop",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1587,7 +1596,7 @@
         "image": "/cdn/imgs/happy_wheels.webp",
         "url": "happy-wheels",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1596,7 +1605,7 @@
         "image": "/cdn/imgs/hba.webp",
         "url": "hba",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1605,7 +1614,7 @@
         "image": "/cdn/imgs/helicopter.webp",
         "url": "helicopter",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1614,7 +1623,7 @@
         "image": "/cdn/imgs/helios.webp",
         "url": "helios",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1623,7 +1632,7 @@
         "image": "/cdn/imgs/hexempire.webp",
         "url": "hexempire",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1632,7 +1641,7 @@
         "image": "/cdn/imgs/hexgl.webp",
         "url": "HexGL",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1641,7 +1650,7 @@
         "image": "/cdn/imgs/hextris.webp",
         "url": "hextris",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1650,7 +1659,7 @@
         "image": "/cdn/imgs/house_of_hazards.webp",
         "url": "house-of-hazards",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1659,7 +1668,7 @@
         "image": "/cdn/imgs/icys_purple_head.webp",
         "url": "icys-purple-head",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1668,7 +1677,7 @@
         "image": "/cdn/imgs/idle_breakout.webp",
         "url": "idle-breakout",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1677,7 +1686,7 @@
         "image": "/cdn/imgs/idle_shark.webp",
         "url": "idle-shark",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1686,7 +1695,7 @@
         "image": "/cdn/imgs/impossiblequiz.webp",
         "url": "impossiblequiz",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1695,7 +1704,7 @@
         "image": "/cdn/imgs/interactive_buddy.webp",
         "url": "interactivebuddy",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1704,7 +1713,7 @@
         "image": "/cdn/imgs/jelly_truck.webp",
         "url": "jelly-truck",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1713,7 +1722,7 @@
         "image": "/cdn/imgs/jetpack.webp",
         "url": "jetpack",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1722,7 +1731,7 @@
         "image": "/cdn/imgs/jimothy.webp",
         "url": "jimothy-piggerton",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1731,7 +1740,7 @@
         "image": "/cdn/imgs/just_one_boss.webp",
         "url": "just-one-boss",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1740,7 +1749,7 @@
         "image": "/cdn/imgs/justfall.webp",
         "url": "justfall",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1749,7 +1758,7 @@
         "image": "/cdn/imgs/kart_fight_.io.webp",
         "url": "kart-fight-io",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1758,7 +1767,7 @@
         "image": "/cdn/imgs/kitchen_gun_game.webp",
         "url": "kitchen-gun-game",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1767,7 +1776,7 @@
         "image": "/cdn/imgs/kitten_cannon.webp",
         "url": "kittencannon",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1776,7 +1785,7 @@
         "image": "/cdn/imgs/klocki.webp",
         "url": "klocki",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1785,7 +1794,7 @@
         "image": "/cdn/imgs/konnekt.webp",
         "url": "konnekt",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1794,7 +1803,7 @@
         "image": "/cdn/imgs/krunker.webp",
         "url": "krunker",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1803,7 +1812,7 @@
         "image": "/cdn/imgs/learn_to_fly.webp",
         "url": "learntofly",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1812,7 +1821,7 @@
         "image": "/cdn/imgs/learn_to_fly_2.webp",
         "url": "learntofly2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1821,7 +1830,7 @@
         "image": "/cdn/imgs/line_rider.webp",
         "url": "line-rider",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1830,7 +1839,7 @@
         "image": "/cdn/imgs/linquest.webp",
         "url": "linquest",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1839,7 +1848,7 @@
         "image": "/cdn/imgs/madalin_stunt_cars_2.webp",
         "url": "madalin-stunt-cars-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1848,7 +1857,7 @@
         "image": "/cdn/imgs/madalin_stunt_cars_3.webp",
         "url": "madalin-stunt-cars-3",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1857,7 +1866,7 @@
         "image": "/cdn/imgs/mario.webp",
         "url": "mario",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1866,7 +1875,7 @@
         "image": "/cdn/imgs/marvin_spectrum.webp",
         "url": "marvinspectrum",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1875,7 +1884,7 @@
         "image": "/cdn/imgs/matrixrampage.webp",
         "url": "matrixrampage",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1884,7 +1893,7 @@
         "image": "/cdn/imgs/meat_boy.webp",
         "url": "meat-boy",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1893,7 +1902,7 @@
         "image": "/cdn/imgs/meme_2048.webp",
         "url": "meme2048",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1901,15 +1910,10 @@
         "name": "Minecraft 1.12",
         "image": "/cdn/imgs/minecraft_1.12.webp",
         "url": "minecraft1.12",
-        "tags": [
-            "3D",
-            "Strategy",
-            "Action",
-            "Adventure",
-            "Multiplayer",
-            "Upgrade"
+        "tags": [],
+        "categories": [
+            "PC Games"
         ],
-        "special": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1918,7 +1922,7 @@
         "image": "/cdn/imgs/minesweeper.webp",
         "url": "minesweeper",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1927,7 +1931,7 @@
         "image": "/cdn/imgs/mini_stilts.webp",
         "url": "mini-stilts",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1936,7 +1940,7 @@
         "image": "/cdn/imgs/miniputt.webp",
         "url": "miniputt",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1945,7 +1949,7 @@
         "image": "/cdn/imgs/missiles.webp",
         "url": "missiles",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1954,7 +1958,7 @@
         "image": "/cdn/imgs/moto_x3m_2.webp",
         "url": "moto-x3m-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1963,7 +1967,7 @@
         "image": "/cdn/imgs/moto_x3m_pool_party.webp",
         "url": "moto-x3m-pool-party",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1972,7 +1976,7 @@
         "image": "/cdn/imgs/motox3m.webp",
         "url": "motox3m",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1981,7 +1985,7 @@
         "image": "/cdn/imgs/motox3m_pool.webp",
         "url": "motox3m-pool",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1990,7 +1994,7 @@
         "image": "/cdn/imgs/motox3m_spooky.webp",
         "url": "motox3m-spooky",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -1999,7 +2003,7 @@
         "image": "/cdn/imgs/motox3m_winter.webp",
         "url": "motox3m-winter",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2008,7 +2012,7 @@
         "image": "/cdn/imgs/my_friend_pedro.webp",
         "url": "my-friend-pedro",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2017,7 +2021,7 @@
         "image": "/cdn/imgs/n_gon.webp",
         "url": "n-gon",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2026,7 +2030,7 @@
         "image": "/cdn/imgs/ninjavsevilcorp.webp",
         "url": "ninjavsevilcorp",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2035,7 +2039,7 @@
         "image": "/cdn/imgs/ns_shaft.webp",
         "url": "ns-shaft",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2044,7 +2048,7 @@
         "image": "/cdn/imgs/offline_paradise.webp",
         "url": "OfflineParadise",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2053,7 +2057,7 @@
         "image": "/cdn/imgs/om_bounce.webp",
         "url": "om-bounce",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -2063,7 +2067,7 @@
         "image": "/cdn/imgs/one_screen_run.webp",
         "url": "one-screen-run",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2072,7 +2076,7 @@
         "image": "/cdn/imgs/one_screen_run_2.webp",
         "url": "one-screen-run-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2081,7 +2085,7 @@
         "image": "/cdn/imgs/osu.webp",
         "url": "osu",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2090,7 +2094,7 @@
         "image": "/cdn/imgs/ovo.webp",
         "url": "ovo",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2099,7 +2103,7 @@
         "image": "/cdn/imgs/packabunchas.webp",
         "url": "packabunchas",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2108,7 +2112,7 @@
         "image": "/cdn/imgs/pacman.webp",
         "url": "pacman",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2117,7 +2121,7 @@
         "image": "/cdn/imgs/pacman_fps.webp",
         "url": "pacman-fps",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2126,7 +2130,7 @@
         "image": "/cdn/imgs/pandemic_2.webp",
         "url": "pandemic2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2135,7 +2139,7 @@
         "image": "/cdn/imgs/papa_louie.webp",
         "url": "papa-louie",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2144,7 +2148,7 @@
         "image": "/cdn/imgs/papa's_burgeria.webp",
         "url": "papas-burgeria",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2153,7 +2157,7 @@
         "image": "/cdn/imgs/papa's_freezeria.webp",
         "url": "papas-freezeria",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2162,7 +2166,7 @@
         "image": "/cdn/imgs/papas_hot_doggeria.webp",
         "url": "papas-hot-doggeria",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2171,7 +2175,7 @@
         "image": "/cdn/imgs/papa's_pancakeria.webp",
         "url": "papas-pancakeria",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2180,7 +2184,7 @@
         "image": "/cdn/imgs/papas_pizzeria.webp",
         "url": "papas-pizzeria",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2189,7 +2193,7 @@
         "image": "/cdn/imgs/papa's_sushiria.webp",
         "url": "papas-sushiria",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2198,7 +2202,7 @@
         "image": "/cdn/imgs/papa's_wingeria.webp",
         "url": "papas-wingeria",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2207,7 +2211,7 @@
         "image": "/cdn/imgs/paper.io_2.webp",
         "url": "paperio2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2216,7 +2220,7 @@
         "image": "/cdn/imgs/papery_planes.webp",
         "url": "papery-planes",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2225,7 +2229,7 @@
         "image": "/cdn/imgs/particle_clicker.webp",
         "url": "particle-clicker",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2234,7 +2238,7 @@
         "image": "/cdn/imgs/path_finder.webp",
         "url": "path-finder",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2243,7 +2247,7 @@
         "image": "/cdn/imgs/pe_noire.webp",
         "url": "pe-noire",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2252,7 +2256,7 @@
         "image": "/cdn/imgs/pikwip.webp",
         "url": "pikwip",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2261,7 +2265,7 @@
         "image": "/cdn/imgs/pixel_cave.webp",
         "url": "pixel-cave",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2270,7 +2274,7 @@
         "image": "/cdn/imgs/pizzeria_simulator.webp",
         "url": "pizzeria-simulator",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2279,7 +2283,7 @@
         "image": "/cdn/imgs/polybranch.webp",
         "url": "polybranch",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2288,7 +2292,7 @@
         "image": "/cdn/imgs/popcat_classic.webp",
         "url": "popcat-classic",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2297,7 +2301,7 @@
         "image": "/cdn/imgs/portal_flash.webp",
         "url": "portalflash",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2306,7 +2310,7 @@
         "image": "/cdn/imgs/precision_client.webp",
         "url": "precision-client",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2315,7 +2319,7 @@
         "image": "/cdn/imgs/protektor.webp",
         "url": "protektor",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2324,7 +2328,7 @@
         "image": "/cdn/imgs/push_the_square.webp",
         "url": "push-the-square",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2333,7 +2337,7 @@
         "image": "/cdn/imgs/push_your_luck.webp",
         "url": "push-your-luck",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2342,7 +2346,7 @@
         "image": "/cdn/imgs/pushback.webp",
         "url": "pushback",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2351,7 +2355,7 @@
         "image": "/cdn/imgs/puzzle_ball.webp",
         "url": "puzzle-ball",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2360,7 +2364,7 @@
         "image": "/cdn/imgs/pvz_2.webp",
         "url": "pvz-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2369,7 +2373,7 @@
         "image": "/cdn/imgs/q1k_3.webp",
         "url": "q1k3",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2378,7 +2382,7 @@
         "image": "/cdn/imgs/racer.webp",
         "url": "racer",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2387,7 +2391,7 @@
         "image": "/cdn/imgs/radius_raid.webp",
         "url": "radiusraid",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2396,7 +2400,7 @@
         "image": "/cdn/imgs/retrohaunt.webp",
         "url": "retrohaunt",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2405,7 +2409,7 @@
         "image": "/cdn/imgs/rise_of_neon_square.webp",
         "url": "rise-of-neon-square",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2414,7 +2418,7 @@
         "image": "/cdn/imgs/roadblocks.webp",
         "url": "roadblocks",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2423,7 +2427,7 @@
         "image": "/cdn/imgs/rocking_sky_trip.webp",
         "url": "rocking-sky-trip",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2432,7 +2436,7 @@
         "image": "/cdn/imgs/rolling_forests.webp",
         "url": "rolling-forests",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2441,7 +2445,7 @@
         "image": "/cdn/imgs/rolly_vortex.webp",
         "url": "rolly-vortex",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2450,7 +2454,7 @@
         "image": "/cdn/imgs/rooftop_snipers.webp",
         "url": "rooftop-snipers",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2459,7 +2463,7 @@
         "image": "/cdn/imgs/run_3.webp",
         "url": "run-3",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -2469,7 +2473,7 @@
         "image": "/cdn/imgs/sand_game.webp",
         "url": "sand-game",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -2479,7 +2483,7 @@
         "image": "/cdn/imgs/sandboxels.webp",
         "url": "sandboxels",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2488,7 +2492,7 @@
         "image": "/cdn/imgs/scrambled_eggs.webp",
         "url": "scrambled-eggs",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2497,7 +2501,7 @@
         "image": "/cdn/imgs/scrapmetal.webp",
         "url": "scrapmetal",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2506,7 +2510,7 @@
         "image": "/cdn/imgs/senya_and_oscar_2.webp",
         "url": "senya-and-oscar-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2515,7 +2519,7 @@
         "image": "/cdn/imgs/shadow_world_adventure.webp",
         "url": "shadow-world-adventure",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2524,7 +2528,7 @@
         "image": "/cdn/imgs/shards.webp",
         "url": "shards",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2533,7 +2537,7 @@
         "image": "/cdn/imgs/shift_flash.webp",
         "url": "shift-flash",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2542,7 +2546,7 @@
         "image": "/cdn/imgs/shift_flash_2.webp",
         "url": "shift-flash-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2551,7 +2555,7 @@
         "image": "/cdn/imgs/short_life_2.webp",
         "url": "short-life-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -2561,7 +2565,7 @@
         "image": "/cdn/imgs/short_ride.webp",
         "url": "short-ride",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -2571,7 +2575,7 @@
         "image": "/cdn/imgs/shuttledeck.webp",
         "url": "shuttledeck",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2580,7 +2584,7 @@
         "image": "/cdn/imgs/skyblock.webp",
         "url": "skyblock",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2589,7 +2593,7 @@
         "image": "/cdn/imgs/sleepingbeauty.webp",
         "url": "sleepingbeauty",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2598,7 +2602,7 @@
         "image": "/cdn/imgs/slice_of_sasha.webp",
         "url": "slice-of-sasha",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2607,7 +2611,7 @@
         "image": "/cdn/imgs/slither_snake.webp",
         "url": "slither snake",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2616,7 +2620,7 @@
         "image": "/cdn/imgs/slope.webp",
         "url": "slope",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2625,7 +2629,7 @@
         "image": "/cdn/imgs/slope_ball.webp",
         "url": "slope-ball",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2634,7 +2638,7 @@
         "image": "/cdn/imgs/slope_2.webp",
         "url": "slope2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2643,7 +2647,7 @@
         "image": "/cdn/imgs/sm_63.webp",
         "url": "sm63",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2652,7 +2656,7 @@
         "image": "/cdn/imgs/sm_64.webp",
         "url": "sm64",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2661,7 +2665,7 @@
         "image": "/cdn/imgs/smashkarts.webp",
         "url": "smashkarts",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2670,7 +2674,7 @@
         "image": "/cdn/imgs/smokingbarrels.webp",
         "url": "smokingbarrels",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2679,7 +2683,7 @@
         "image": "/cdn/imgs/snake.webp",
         "url": "snake",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2688,7 +2692,7 @@
         "image": "/cdn/imgs/snowbattle.webp",
         "url": "snowbattle",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2697,7 +2701,7 @@
         "image": "/cdn/imgs/soldier_legend.webp",
         "url": "soldier-legend",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2706,7 +2710,7 @@
         "image": "/cdn/imgs/solitaire.webp",
         "url": "solitaire",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2715,7 +2719,7 @@
         "image": "/cdn/imgs/sonic_the_hedgehog.webp",
         "url": "sonic-the-hedgehog",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2724,7 +2728,7 @@
         "image": "/cdn/imgs/sort_the_court.webp",
         "url": "sort-the-court",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2733,7 +2737,7 @@
         "image": "/cdn/imgs/soundboard.webp",
         "url": "soundboard",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2742,7 +2746,7 @@
         "image": "/cdn/imgs/space_company.webp",
         "url": "space-company",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2751,7 +2755,7 @@
         "image": "/cdn/imgs/space_garden.webp",
         "url": "spacegarden",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2760,7 +2764,7 @@
         "image": "/cdn/imgs/space_huggers.webp",
         "url": "spacehuggers",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2769,7 +2773,7 @@
         "image": "/cdn/imgs/spelunky.webp",
         "url": "spelunky",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2778,7 +2782,7 @@
         "image": "/cdn/imgs/ssf.webp",
         "url": "ssf",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2787,7 +2791,7 @@
         "image": "/cdn/imgs/stack.webp",
         "url": "stack",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2796,7 +2800,7 @@
         "image": "/cdn/imgs/stack_bump_3d.webp",
         "url": "stack-bump-3d",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2805,7 +2809,7 @@
         "image": "/cdn/imgs/station_141.webp",
         "url": "station-141",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2814,7 +2818,7 @@
         "image": "/cdn/imgs/stealingthediamond.webp",
         "url": "stealingthediamond",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2823,7 +2827,7 @@
         "image": "/cdn/imgs/stick_archer_battle.webp",
         "url": "stick-archers-battle",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2832,7 +2836,7 @@
         "image": "/cdn/imgs/stickman.webp",
         "url": "stickman",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2841,7 +2845,7 @@
         "image": "/cdn/imgs/stickman_boost.webp",
         "url": "stickman-boost",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2850,7 +2854,7 @@
         "image": "/cdn/imgs/stickman_dismount.webp",
         "url": "stickman-dismount",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2859,7 +2863,7 @@
         "image": "/cdn/imgs/stickman_epic_battle.webp",
         "url": "stickman-epic-battle",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -2869,7 +2873,7 @@
         "image": "/cdn/imgs/stickman_golf.webp",
         "url": "stickman-golf",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2878,7 +2882,7 @@
         "image": "/cdn/imgs/stickman_survival.webp",
         "url": "Stickman-Survival",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2887,7 +2891,7 @@
         "image": "/cdn/imgs/stickwar.webp",
         "url": "stickwar",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2896,7 +2900,7 @@
         "image": "/cdn/imgs/stormthehouse_2.webp",
         "url": "stormthehouse2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2905,7 +2909,7 @@
         "image": "/cdn/imgs/subway_surfers.webp",
         "url": "subway-surfers",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2914,7 +2918,7 @@
         "image": "/cdn/imgs/subway_surfers_bali.webp",
         "url": "subway-surfers-bali",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2923,7 +2927,7 @@
         "image": "/cdn/imgs/super_mario_maker_online.webp",
         "url": "super-mario-maker-online",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2932,7 +2936,7 @@
         "image": "/cdn/imgs/super_puffer_fish_3d.webp",
         "url": "super-puffer-fish-3d",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2941,7 +2945,7 @@
         "image": "/cdn/imgs/sans_fight.webp",
         "url": "sansfight",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2963,7 +2967,7 @@
         "image": "/cdn/imgs/superhero_.io.webp",
         "url": "superhero-io",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2972,7 +2976,7 @@
         "image": "/cdn/imgs/superhot.webp",
         "url": "superhot",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -2981,7 +2985,7 @@
         "image": "/cdn/imgs/swerve.webp",
         "url": "swerve",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -2991,7 +2995,7 @@
         "image": "/cdn/imgs/synesthesia.webp",
         "url": "synesthesia",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3000,7 +3004,7 @@
         "image": "/cdn/imgs/tactical_weapon_pack_2.webp",
         "url": "tacticalassasin2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3009,7 +3013,7 @@
         "image": "/cdn/imgs/tail_of_the_dragon.webp",
         "url": "tail-of-the-dragon",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -3019,7 +3023,7 @@
         "image": "/cdn/imgs/tam_indian_truck_simulator_3d.webp",
         "url": "tam-indian-truck-simulator-3d",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3028,7 +3032,7 @@
         "image": "/cdn/imgs/tank_trouble_2.webp",
         "url": "tank-trouble-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3037,7 +3041,7 @@
         "image": "/cdn/imgs/tanuki_sunset.webp",
         "url": "tanuki-sunset",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3046,7 +3050,7 @@
         "image": "/cdn/imgs/temple_run_2.webp",
         "url": "temple-run-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3055,7 +3059,7 @@
         "image": "/cdn/imgs/the_final_earth.webp",
         "url": "the-final-earth",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3064,7 +3068,7 @@
         "image": "/cdn/imgs/the_final_earth_2.webp",
         "url": "the-final-earth-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3073,7 +3077,7 @@
         "image": "/cdn/imgs/the_impossible_quiz.webp",
         "url": "the-impossible-quiz",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3082,7 +3086,7 @@
         "image": "/cdn/imgs/the_impossible_quiz_2.webp",
         "url": "the-impossible-quiz-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3091,7 +3095,7 @@
         "image": "/cdn/imgs/the_little_giant.webp",
         "url": "the-little-giant",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3100,7 +3104,7 @@
         "image": "/cdn/imgs/the_battle.webp",
         "url": "thebattle",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3109,7 +3113,7 @@
         "image": "/cdn/imgs/the_heist.webp",
         "url": "theheist",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3118,7 +3122,7 @@
         "image": "/cdn/imgs/space_goblins.webp",
         "url": "themazeofspacegoblins",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3127,7 +3131,7 @@
         "image": "/cdn/imgs/there_is_no_game.webp",
         "url": "there-is-no-game",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3136,7 +3140,7 @@
         "image": "/cdn/imgs/thisistheonlylevel.webp",
         "url": "thisistheonlylevel",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3145,7 +3149,7 @@
         "image": "/cdn/imgs/tiny_fragments.webp",
         "url": "tiny-fragments",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3154,7 +3158,7 @@
         "image": "/cdn/imgs/tiny_islands.webp",
         "url": "tiny-islands",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3163,7 +3167,7 @@
         "image": "/cdn/imgs/topple_adventure.webp",
         "url": "topple-adventure",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3172,7 +3176,7 @@
         "image": "/cdn/imgs/toss_the_turtle.webp",
         "url": "tosstheturtle",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3181,7 +3185,7 @@
         "image": "/cdn/imgs/tough_growth.webp",
         "url": "tough-growth",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3190,7 +3194,7 @@
         "image": "/cdn/imgs/towermaster.webp",
         "url": "towermaster",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
@@ -3200,7 +3204,7 @@
         "image": "/cdn/imgs/townscraper.webp",
         "url": "townscaper",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3209,7 +3213,7 @@
         "image": "/cdn/imgs/trimps.webp",
         "url": "trimps",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3218,7 +3222,7 @@
         "image": "/cdn/imgs/tube_jumpers.webp",
         "url": "tube-jumpers",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3227,7 +3231,7 @@
         "image": "/cdn/imgs/tunnelz.webp",
         "url": "tunnelz",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3236,7 +3240,7 @@
         "image": "/cdn/imgs/tv_static.webp",
         "url": "tv-static",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3245,7 +3249,7 @@
         "image": "/cdn/imgs/twitch_tetris.webp",
         "url": "twitch-tetris",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3254,7 +3258,7 @@
         "image": "/cdn/imgs/underrun.webp",
         "url": "underrun",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3263,7 +3267,7 @@
         "image": "/cdn/imgs/wolf3d.webp",
         "url": "wolf3d",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3272,7 +3276,7 @@
         "image": "/cdn/imgs/wordle.webp",
         "url": "wordle",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3281,7 +3285,7 @@
         "image": "/cdn/imgs/worlds_hardest_game.webp",
         "url": "worlds-hardest-game",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3290,7 +3294,7 @@
         "image": "/cdn/imgs/worlds_hardest_game_2.webp",
         "url": "worlds-hardest-game-2",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3299,7 +3303,7 @@
         "image": "/cdn/imgs/x_trial_racing.webp",
         "url": "x-trial-racing",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3308,7 +3312,7 @@
         "image": "/cdn/imgs/xx142_b2exe.webp",
         "url": "xx142-b2exe",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3317,7 +3321,7 @@
         "image": "/cdn/imgs/you_are_bezos.webp",
         "url": "you-are-bezos",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     },
@@ -3326,7 +3330,7 @@
         "image": "/cdn/imgs/zombocalypse.webp",
         "url": "zombocalypse",
         "tags": [],
-        "special": [],
+        "categories": [],
         "description": "Coming Soon",
         "controls": "Coming Soon"
     }
