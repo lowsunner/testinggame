@@ -115,9 +115,10 @@ header {
     position: fixed;
     left: 0;
     top: 64px;
-    width: 64.5px;
+    width: 71.5px;
     height: calc(100vh - 64px);
     padding: 16px 8px;
+    padding-right: 6.5px;
     overflow-y: auto;
     overflow-x: hidden;
     z-index: 50;
