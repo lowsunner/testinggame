@@ -173,6 +173,9 @@ async function loadMoreGames() {
                     window.open('https://discord.com/invite/ejP36Bb44r', '_blank');
                 });
             }
+            else if (game.url.includes("/cdn/")) {
+                tile.href = game.url;
+            }
             else {
                 tile.href = `/play/${game.url}/`;
             }
