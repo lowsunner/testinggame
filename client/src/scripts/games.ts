@@ -110,7 +110,7 @@ function renderGames(games: any[]) {
     }
 
     gamesContainer.innerHTML = games.map(game => {
-        const fallbackImageUrl = `https://enchanteddonutstudioz.github.io/the-math-hub-CDN/imgs/${game.image.split('/').pop()}`;
+        const fallbackImageUrl = `https://mathclass.404.mn/cdn/imgs/${game.image.split('/').pop()}`;
 
         return `
             <div class="game-card glass cursor-pointer transform transition-transform" data-link="/play/${game.url}/">

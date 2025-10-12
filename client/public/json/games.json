@@ -1,7 +1,7 @@
 [
     {
         "name": "Suggest a Game",
-        "image": "img/discordlogo.webp",
+        "image": "/img/discordlogo.webp",
         "url": "sug",
         "tags": [],
         "categories": [
@@ -10,7 +10,7 @@
     },
     {
         "name": "Ultrakill",
-        "image": "img/g/ultrakill.webp",
+        "image": "/img/g/ultrakill.webp",
         "url": "ultrakill",
         "tags": [],
         "categories": [
@@ -23,7 +23,7 @@
     },
     {
         "name": "People Playground",
-        "image": "img/g/peopleplay.webp",
+        "image": "/img/g/peopleplay.webp",
         "url": "people-playground",
         "tags": [],
         "categories": [
@@ -36,7 +36,7 @@
     },
     {
         "name": "Pizza Tower",
-        "image": "img/g/pizzatower.webp",
+        "image": "/img/g/pizzatower.webp",
         "url": "pizza-tower",
         "tags": [],
         "categories": [
@@ -49,7 +49,7 @@
     },
     {
         "name": "Bloodmoney",
-        "image": "img/g/bloodmoney.webp",
+        "image": "/img/g/bloodmoney.webp",
         "url": "bloodmoney",
         "tags": [],
         "categories": [
@@ -63,7 +63,7 @@
     },
     {
         "name": "Jelly Drift",
-        "image": "img/g/jellydrift.webp",
+        "image": "/img/g/jellydrift.webp",
         "url": "jelly-drift",
         "tags": [],
         "categories": [
@@ -78,7 +78,7 @@
     },
     {
         "name": "Karlson",
-        "image": "img/g/karlson.webp",
+        "image": "/img/g/karlson.webp",
         "url": "karlson",
         "tags": [],
         "categories": [
@@ -91,7 +91,7 @@
     },
     {
         "name": "Milkman Karlson",
-        "image": "img/g/milkmankarl.webp",
+        "image": "/img/g/milkmankarl.webp",
         "url": "milkman-karlson",
         "tags": [],
         "categories": [
@@ -104,7 +104,7 @@
     },
     {
         "name": "Amanda The Adventurer",
-        "image": "img/g/amanda.webp",
+        "image": "/img/g/amanda.webp",
         "url": "amanda-the-adventurer",
         "tags": [],
         "categories": [
@@ -118,7 +118,7 @@
     },
     {
         "name": "Getting Over It",
-        "image": "img/g/gettingover.webp",
+        "image": "/img/g/gettingover.webp",
         "url": "getting-over-it",
         "tags": [],
         "categories": [
@@ -131,7 +131,7 @@
     },
     {
         "name": "Baldi's Basics Remastered",
-        "image": "img/g/baldiremastered.webp",
+        "image": "/img/g/baldiremastered.webp",
         "url": "baldi-remaster",
         "tags": [],
         "categories": [
@@ -145,7 +145,7 @@
     },
     {
         "name": "Buckshot Roulette",
-        "image": "img/g/buckshot.webp",
+        "image": "/img/g/buckshot.webp",
         "url": "buckshot-roulette",
         "tags": [],
         "categories": [
@@ -159,7 +159,7 @@
     },
     {
         "name": "Bendy and the Ink Machine",
-        "image": "img/g/bendy.webp",
+        "image": "/img/g/bendy.webp",
         "url": "bendy",
         "tags": [],
         "categories": [
@@ -173,7 +173,7 @@
     },
     {
         "name": "That's Not My Neighbor",
-        "image": "img/g/thatsnotmy.webp",
+        "image": "/img/g/thatsnotmy.webp",
         "url": "thats-not-my-neighbor",
         "tags": [],
         "categories": [
