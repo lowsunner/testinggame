@@ -11,7 +11,7 @@
     {
         "name": "Ultrakill",
         "image": "/img/g/ultrakill.webp",
-        "url": "ultrakill",
+        "url": "/cdn/pc/ultrakill",
         "tags": [],
         "categories": [
             "PC Games",
@@ -24,7 +24,7 @@
     {
         "name": "People Playground",
         "image": "/img/g/peopleplay.webp",
-        "url": "people-playground",
+        "url": "/cdn/pc/people-playground",
         "tags": [],
         "categories": [
             "PC Games",
@@ -37,7 +37,7 @@
     {
         "name": "Pizza Tower",
         "image": "/img/g/pizzatower.webp",
-        "url": "pizza-tower",
+        "url": "/cdn/pc/pizza-tower",
         "tags": [],
         "categories": [
             "PC Games",
@@ -50,7 +50,7 @@
     {
         "name": "Bloodmoney",
         "image": "/img/g/bloodmoney.webp",
-        "url": "bloodmoney",
+        "url": "/cdn/pc/bloodmoney",
         "tags": [],
         "categories": [
             "PC Games",
@@ -64,7 +64,7 @@
     {
         "name": "Jelly Drift",
         "image": "/img/g/jellydrift.webp",
-        "url": "jelly-drift",
+        "url": "/cdn/pc/jelly-drift",
         "tags": [],
         "categories": [
             "PC Games",
@@ -79,7 +79,7 @@
     {
         "name": "Karlson",
         "image": "/img/g/karlson.webp",
-        "url": "karlson",
+        "url": "/cdn/pc/karlson",
         "tags": [],
         "categories": [
             "PC Games",
@@ -92,7 +92,7 @@
     {
         "name": "Milkman Karlson",
         "image": "/img/g/milkmankarl.webp",
-        "url": "milkman-karlson",
+        "url": "/cdn/pc/milkman-karlson",
         "tags": [],
         "categories": [
             "PC Games",
@@ -105,7 +105,7 @@
     {
         "name": "Amanda The Adventurer",
         "image": "/img/g/amanda.webp",
-        "url": "amanda-the-adventurer",
+        "url": "/cdn/pc/amanda-the-adventurer",
         "tags": [],
         "categories": [
             "PC Games",
@@ -119,7 +119,7 @@
     {
         "name": "Getting Over It",
         "image": "/img/g/gettingover.webp",
-        "url": "getting-over-it",
+        "url": "/cdn/pc/getting-over-it",
         "tags": [],
         "categories": [
             "PC Games",
@@ -132,7 +132,7 @@
     {
         "name": "Baldi's Basics Remastered",
         "image": "/img/g/baldiremastered.webp",
-        "url": "baldi-remaster",
+        "url": "/cdn/pc/baldi-remaster",
         "tags": [],
         "categories": [
             "PC Games",
@@ -146,7 +146,7 @@
     {
         "name": "Buckshot Roulette",
         "image": "/img/g/buckshot.webp",
-        "url": "buckshot-roulette",
+        "url": "/cdn/pc/buckshot-roulette",
         "tags": [],
         "categories": [
             "PC Games",
@@ -160,7 +160,7 @@
     {
         "name": "Bendy and the Ink Machine",
         "image": "/img/g/bendy.webp",
-        "url": "bendy",
+        "url": "/cdn/pc/bendy",
         "tags": [],
         "categories": [
             "PC Games",
@@ -174,7 +174,7 @@
     {
         "name": "That's Not My Neighbor",
         "image": "/img/g/thatsnotmy.webp",
-        "url": "thats-not-my-neighbor",
+        "url": "/cdn/pc/thats-not-my-neighbor",
         "tags": [],
         "categories": [
             "PC Games",

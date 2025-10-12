@@ -111,8 +111,23 @@ function renderGames(games: any[]) {
 
     gamesContainer.innerHTML = games.map(game => {
         const fallbackImageUrl = `https://mathclass.404.mn/cdn/imgs/${game.image.split('/').pop()}`;
-
-        return `
+        if (game.url.includes('/cdn/')) {
+            return `
+            <div class="game-card glass cursor-pointer transform transition-transform" data-link="/play/${game.url.split('/cdn/pc/').pop()}/">
+                <img 
+                    src="${game.image}" 
+                    alt="${game.name} image" 
+                    class="game-image"
+                    onerror="this.onerror=null;this.src='${fallbackImageUrl}';"
+                >
+                <div class="p-4">
+                    <h3 class="text-white font-medium text-xl">${game.name}</h3>
+                </div>
+            </div>
+        `;
+        }
+        else {
+            return `
             <div class="game-card glass cursor-pointer transform transition-transform" data-link="/play/${game.url}/">
                 <img 
                     src="${game.image}" 
@@ -125,6 +140,8 @@ function renderGames(games: any[]) {
                 </div>
             </div>
         `;
+        }
+
     }).join('');
 
     document.querySelectorAll('.game-card').forEach(card => {
