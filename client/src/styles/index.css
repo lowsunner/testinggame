@@ -36,7 +36,7 @@ header:hover {
 }
 
 .play-b {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #667eea 0%, #1a7cf4 100%);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
     cursor: pointer;
@@ -582,7 +582,7 @@ html {
 }
 
 #disc {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #667eea, #3883f4);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     border-radius: 20px;
     cursor: pointer;
