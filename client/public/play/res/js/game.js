@@ -258,3 +258,17 @@ if (savedGameCloak) {
 } else {
     setGameCloak("none");
 }
+const beforeUnloadHandler = (event) => {
+    event.preventDefault();
+    event.returnValue = 'Are you sure you want to leave?';
+    return 'Are you sure you want to leave?';
+};
+
+function checkAnticlose() {
+    if (localStorage.getItem("antiClose") === "true") {
+        window.addEventListener('beforeunload', beforeUnloadHandler);
+    } else {
+        window.removeEventListener('beforeunload', beforeUnloadHandler);
+    }
+}
+checkAnticlose();
