@@ -22,6 +22,19 @@
         "controls": "Coming Soon"
     },
     {
+        "name": "Hollow Knight",
+        "image": "/img/g/hollowknight.webp",
+        "url": "/cdn/pc/hollow-knight",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
         "name": "People Playground",
         "image": "/img/g/peopleplay.webp",
         "url": "/cdn/pc/people-playground",
