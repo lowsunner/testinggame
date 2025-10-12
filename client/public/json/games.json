@@ -103,6 +103,73 @@
         "controls": "Coming Soon"
     },
     {
+        "name": "R.E.P.O.",
+        "image": "/img/g/repo.webp",
+        "url": "/cdn/pc/repo",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Slender",
+        "image": "/img/g/slender.webp",
+        "url": "/cdn/pc/slender",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Raft",
+        "image": "/img/g/raft.webp",
+        "url": "/cdn/pc/raft",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Undertale: Yellow",
+        "image": "/img/g/undertaleyellow.webp",
+        "url": "/cdn/pc/undertale-yellow",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Speed Stars",
+        "image": "/img/g/speedstars.webp",
+        "url": "/cdn/pc/speed-stars",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Racing"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
         "name": "Amanda The Adventurer",
         "image": "/img/g/amanda.webp",
         "url": "/cdn/pc/amanda-the-adventurer",
