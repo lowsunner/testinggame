@@ -32,3 +32,17 @@ if (savedCloak) {
 } else {
     setCloak("none");
 }
+const beforeUnloadHandler = (event: BeforeUnloadEvent) => {
+    event.preventDefault();
+    event.returnValue = 'Are you sure you want to leave?';
+    return 'Are you sure you want to leave?';
+};
+checkAnticlose();
+
+export function checkAnticlose() {
+    if (localStorage.getItem("antiClose") === "true") {
+        window.addEventListener('beforeunload', beforeUnloadHandler);
+    } else {
+        window.removeEventListener('beforeunload', beforeUnloadHandler);
+    }
+}

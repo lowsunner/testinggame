@@ -1,9 +1,11 @@
 import { setCloak } from "./cloak";
+import { checkAnticlose } from "./cloak";
 
 const classroom = document.getElementById("classroom");
 const clever = document.getElementById("clever");
 const math = document.getElementById("math");
 const abCloak = document.getElementById("ab");
+const antiClose = document.getElementById("anticlose") as HTMLInputElement;
 
 if (classroom && clever && math) {
     classroom.addEventListener("click", () => {
@@ -34,4 +36,16 @@ abCloak?.addEventListener("click", () => {
 
     window.location.assign("https://classroom.google.com/");
 });
+if (!localStorage.getItem("antiClose")) localStorage.setItem("antiClose", "false");
+else {
+    if (antiClose)
+        antiClose.checked = localStorage.getItem("antiClose") === "true";
+}
+antiClose?.checked
+    ? localStorage.setItem("antiClose", "true")
+    : localStorage.setItem("antiClose", "false");
 
+antiClose?.addEventListener("change", () => {
+    localStorage.setItem("antiClose", antiClose.checked ? "true" : "false");
+    checkAnticlose();
+});
