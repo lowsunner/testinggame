@@ -16,7 +16,8 @@
         "categories": [
             "PC Games",
             "Action",
-            "Adventure"
+            "Adventure",
+            "Shooting"
         ],
         "description": "Thanks to gn-math.github.io for the web port <3",
         "controls": "Coming Soon"
@@ -42,7 +43,8 @@
         "categories": [
             "PC Games",
             "Action",
-            "Adventure"
+            "Adventure",
+            "Shooting"
         ],
         "description": "Thanks to gn-math.github.io for the web port <3",
         "controls": "Coming Soon"
@@ -295,6 +297,153 @@
         "tags": [],
         "categories": [],
         "description": "Coming Soon",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Boom Slingers Reboom",
+        "image": "/img/g/boom.webp",
+        "url": "/cdn/pc/boom-slingers-reboom",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Shooting"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Bit Gun.io",
+        "image": "/img/g/bitgun.webp",
+        "url": "/cdn/pc/bit-gun-io",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Shooting"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Count Masters",
+        "image": "/img/g/countmasters.webp",
+        "url": "/cdn/pc/count-masters-stickman-games",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Puzzle",
+            "Strategy"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Man Runner 2048",
+        "image": "/img/g/manrunner.webp",
+        "url": "/cdn/pc/man-runner-2048",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Puzzle",
+            "Strategy"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Dalgona Cookie Honeycomb",
+        "image": "/img/g/dalgona.webp",
+        "url": "/cdn/pc/dalgona-candy-honeycomb-cookie",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Puzzle"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Sky Riders",
+        "image": "/img/g/skyriders.webp",
+        "url": "/cdn/pc/sky-riders",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Puzzle",
+            "Racing"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Shovel 3D",
+        "image": "/img/g/shovel3d.webp",
+        "url": "/cdn/pc/shovel-3d",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Puzzle"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Pottery Master",
+        "image": "/img/g/potterymaster.webp",
+        "url": "/cdn/pc/pottery-master",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Puzzle"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Steal Brainrot Online",
+        "image": "/img/g/stealbrainrot.webp",
+        "url": "/cdn/pc/steal-brainrot-online",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Puzzle"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Stickman and Guns",
+        "image": "/img/g/stickmanguns.webp",
+        "url": "/cdn/pc/stickman-and-guns",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Puzzle",
+            "Shooting"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Fortzone Battle Royale",
+        "image": "/img/g/fortzone.webp",
+        "url": "/cdn/pc/fortzone-battle-royale",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Arcade",
+            "Shooting"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
         "controls": "Coming Soon"
     },
     {
