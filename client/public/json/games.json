@@ -145,6 +145,20 @@
         "controls": "Coming Soon"
     },
     {
+        "name": "Bad Parenting",
+        "image": "/img/g/badparenting.webp",
+        "url": "/cdn/pc/bad-parenting",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
         "name": "Slender",
         "image": "/img/g/slender.webp",
         "url": "/cdn/pc/slender",
@@ -289,6 +303,41 @@
         "description": "Coming Soon",
         "controls": "Coming Soon",
         "important": true
+    },
+    {
+        "name": "Blockpost",
+        "image": "/img/g/blockpost.webp",
+        "url": "/cdn/pc/blockpost",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Shooting"
+        ],
+        "description": "A FPS game",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Buildnow.gg",
+        "image": "/img/g/buildnow.webp",
+        "url": "/cdn/pc/buildnow-gg",
+        "tags": [],
+        "categories": [
+            "Action",
+            "Shooting"
+        ],
+        "description": "Another Fortnite ripoff lol",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Layers Roll",
+        "image": "/img/g/layersroll.webp",
+        "url": "/cdn/pc/layers-roll",
+        "tags": [],
+        "categories": [
+            "Arcade"
+        ],
+        "description": "Hypercasual lol",
+        "controls": "Coming Soon"
     },
     {
         "name": "Golf Orbit",
