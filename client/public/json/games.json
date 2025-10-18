@@ -363,17 +363,6 @@
     },
     {
         "name": "Sword Play",
-        "image": "/img/g/towercrash.webp",
-        "url": "/cdn/pc/tower-crash-3d",
-        "tags": [],
-        "categories": [
-            "Arcade"
-        ],
-        "description": "Hypercasual lol (Thanks to gn-math.github.io for the web port <3)",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Sword Play",
         "image": "/img/g/swordplay.webp",
         "url": "/cdn/pc/sword-play",
         "tags": [],
