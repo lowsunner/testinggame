@@ -340,63 +340,6 @@
         "controls": "Coming Soon"
     },
     {
-        "name": "Turbo Stars",
-        "image": "/img/g/turbostars.webp",
-        "url": "/cdn/pc/turbo-stars",
-        "tags": [],
-        "categories": [
-            "Arcade"
-        ],
-        "description": "Thanks to gn-math.github.io for the web port <3",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Tower Crash 3D",
-        "image": "/img/g/towercrash.webp",
-        "url": "/cdn/pc/tower-crash-3d",
-        "tags": [],
-        "categories": [
-            "Arcade"
-        ],
-        "description": "Hypercasual lol (Thanks to gn-math.github.io for the web port <3)",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Sword Play",
-        "image": "/img/g/swordplay.webp",
-        "url": "/cdn/pc/sword-play",
-        "tags": [],
-        "categories": [
-            "Arcade"
-        ],
-        "description": "Hypercasual lol (Thanks to gn-math.github.io for the web port <3)",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Tall Man Run",
-        "image": "/img/g/tallman.webp",
-        "url": "/cdn/pc/tall-man-run",
-        "tags": [],
-        "categories": [
-            "Arcade"
-        ],
-        "description": "Hypercasual lol (Thanks to gn-math.github.io for the web port <3)",
-        "controls": "Coming Soon"
-    },
-    {
-        "name": "Supreme Duelist",
-        "image": "/img/g/supremeduelist.webp",
-        "url": "/cdn/pc/supreme-duelist",
-        "tags": [],
-        "categories": [
-            "Arcade",
-            "Shooting",
-            "Action"
-        ],
-        "description": "Hypercasual lol (Thanks to gn-math.github.io for the web port <3)",
-        "controls": "Coming Soon"
-    },
-    {
         "name": "Golf Orbit",
         "image": "/cdn/imgs/golforbit.webp",
         "url": "golforbit",
