@@ -1,6 +1,26 @@
 let allGames: any[] = [];
 let currentCategory = 'All';
 let currentSearch = '';
+let favorites: Set<string> = new Set();
+
+function loadFavorites() {
+    const saved = localStorage.getItem('gameFavorites');
+    if (saved) favorites = new Set(JSON.parse(saved));
+}
+
+function saveFavorites() {
+    localStorage.setItem('gameFavorites', JSON.stringify([...favorites]));
+}
+
+function toggleFavorite(gameUrl: string) {
+    if (favorites.has(gameUrl)) {
+        favorites.delete(gameUrl);
+    } else {
+        favorites.add(gameUrl);
+    }
+    saveFavorites();
+    filterGames();
+}
 
 const categories = [
     { name: 'All', icon: '<svg fill="currentColor" viewBox="0 0 20 20"><path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"/></svg>' },
@@ -40,6 +60,8 @@ function categorizeGame(game: any): string[] {
 function loadGames() {
     const gamesContainer = document.getElementById('games');
     if (!gamesContainer) return;
+
+    loadFavorites();
 
     fetch('/json/games.json')
         .then(response => response.json())
@@ -106,45 +128,24 @@ function renderGames(games: any[]) {
     const gamesContainer = document.getElementById('games');
     if (!gamesContainer) return;
 
+    const favoriteGames = games.filter(g => favorites.has(g.url));
+    const regularGames = games.filter(g => !favorites.has(g.url));
+
     if (games.length === 0) {
         gamesContainer.innerHTML = '<p class="text-white text-center text-lg opacity-70 col-span-full">No games found</p>';
         return;
     }
 
-    gamesContainer.innerHTML = games.map(game => {
-        const fallbackImageUrl = `https://mathclass.404.mn/cdn/imgs/${game.image.split('/').pop()}`;
-        if (game.url.includes('/cdn/')) {
-            return `
-            <div class="game-card glass cursor-pointer transform transition-transform" data-link="/play/${game.url.split('/cdn/pc/').pop()}/">
-                <img 
-                    src="${game.image}" 
-                    alt="${game.name} image" 
-                    class="game-image"
-                    onerror="this.onerror=null;this.src='${fallbackImageUrl}';"
-                >
-                <div class="p-4">
-                    <h3 class="text-white font-medium text-xl">${game.name}</h3>
-                </div>
-            </div>
-        `;
-        }
-        else {
-            return `
-            <div class="game-card glass cursor-pointer transform transition-transform" data-link="/play/${game.url}/">
-                <img 
-                    src="${game.image}" 
-                    alt="${game.name} image" 
-                    class="game-image"
-                    onerror="this.onerror=null;this.src='${fallbackImageUrl}';"
-                >
-                <div class="p-4">
-                    <h3 class="text-white font-medium text-xl">${game.name}</h3>
-                </div>
-            </div>
-        `;
-        }
+    let html = '';
 
-    }).join('');
+    if (favoriteGames.length > 0) {
+        html += '<h2 class="text-white text-2xl font-bold mb-4 col-span-full">Favorites</h2>';
+        html += favoriteGames.map(game => createGameCard(game)).join('');
+    }
+
+    html += regularGames.map(game => createGameCard(game)).join('');
+
+    gamesContainer.innerHTML = html;
 
     document.querySelectorAll('.game-card').forEach(card => {
         if (card.getAttribute('data-link') == '/play/sug/') {
@@ -153,13 +154,48 @@ function renderGames(games: any[]) {
             });
             return;
         }
-        card.addEventListener('click', () => {
+        if (card.getAttribute('data-link') == '/play/ran/') {
+            card.addEventListener('click', () => {
+                const randomGame = allGames[Math.floor(Math.random() * allGames.length)];
+                window.location.href = `/play/${randomGame.url}/`;
+            });
+            return;
+        }
+        card.addEventListener('click', (e) => {
+            if ((e.target as HTMLElement).closest('.fav-btn')) return;
             const link = card.getAttribute('data-link');
-            if (link) {
-                window.location.href = link;
-            }
+            if (link) window.location.href = link;
         });
     });
+
+    document.querySelectorAll('.fav-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const url = btn.getAttribute('data-url');
+            if (url) toggleFavorite(url);
+        });
+    });
+}
+
+function createGameCard(game: any): string {
+    const fallbackImageUrl = `https://mathclass.404.mn/cdn/imgs/${game.image.split('/').pop()}`;
+    const link = game.url.includes('/cdn/') ? `/play/${game.url.split('/cdn/pc/').pop()}/` : `/play/${game.url}/`;
+    const isFav = favorites.has(game.url);
+
+    return `
+        <div class="game-card glass cursor-pointer transform transition-transform" data-link="${link}">
+            <img 
+                src="${game.image}" 
+                alt="${game.name} image" 
+                class="game-image"
+                onerror="this.onerror=null;this.src='${fallbackImageUrl}';"
+            >
+            <div class="p-4 flex justify-between items-center">
+                <h3 class="text-white font-medium text-xl">${game.name}</h3>
+                <button class="fav-btn text-2xl" data-url="${game.url}">${isFav ? '★' : '☆'}</button>
+            </div>
+        </div>
+    `;
 }
 
 document.addEventListener('DOMContentLoaded', loadGames);

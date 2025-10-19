@@ -9,6 +9,15 @@
         ]
     },
     {
+        "name": "Random Game",
+        "image": "/img/random.webp",
+        "url": "ran",
+        "tags": [],
+        "categories": [
+            "All"
+        ]
+    },
+    {
         "name": "Ultrakill",
         "image": "/img/g/ultrakill.webp",
         "url": "/cdn/pc/ultrakill",

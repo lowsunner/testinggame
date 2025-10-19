@@ -189,6 +189,12 @@ async function loadMoreGames() {
                     window.open('https://discord.com/invite/ejP36Bb44r', '_blank');
                 });
             }
+            else if (game.url === 'ran') {
+                tile.addEventListener('click', () => {
+                    const randomGame = games[Math.floor(Math.random() * games.length)];
+                    window.location.href = `/play/${randomGame.url}/`;
+                });
+            }
             else if (game.url.includes("/cdn/")) {
                 tile.href = game.url;
             }
