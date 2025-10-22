@@ -1,0 +1,10 @@
+<button id="hack"></button>
+<script>
+	const hackButton = document.getElementById("hack");
+	if (hackButton) {
+		hackButton.onclick = function () {
+			alert("GeForce Hack Activated!");
+			localStorage.setItem("skid", "true");
+		};
+	}
+</script>

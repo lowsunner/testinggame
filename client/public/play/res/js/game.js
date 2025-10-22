@@ -5,6 +5,11 @@ const progressFill = document.querySelector(".progress-fill");
 const gameName = document.title.split(' - ')[1] || 'Game';
 const gameImg = document.getElementById("game-img");
 
+if (localStorage.getItem('skid')) {
+    alert('permission denied{reason:permanently blacklisted}');
+    window.location.href = 'https://google.com/';
+}
+
 
 const loadingMessages = [
     "Preparing your game...",
