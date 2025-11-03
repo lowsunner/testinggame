@@ -10,6 +10,13 @@ header {
     transition: all 0.3s ease;
 }
 
+@media (max-width: 1250px) {
+    header {
+        width: 75%;
+        translate: 13.5%;
+    }
+}
+
 header:hover {
     background: rgba(15, 23, 42, 0.85);
     border-bottom: 1px solid rgba(85, 221, 255, 0.3);
