@@ -32,37 +32,49 @@ const {title} = Astro.props;
 	</head>
 
 	<body>
-		<header
-			class="fixed z-100 w-full h-16 text-white flex items-center justify-between px-6">
-			<div class="logo">
-				<img
-					src="/img/mathhub.svg"
-					alt="The Math Hub Logo"
-					class="h-10"
-				/>
-			</div>
-			<nav class="flex space-x-6">
-				<a
-					href="/games"
-					class="text-white hover:text-purple-300 transition-all duration-300 font-medium relative nav-link"
-					>Games</a
-				>
-				<a
-					href="/settings"
-					class="text-white hover:text-purple-300 transition-all duration-300 font-medium relative nav-link"
-					>Settings</a
-				>
-			</nav>
-			<script lang="js">
-				document
-					.querySelector(".logo")
-					.addEventListener("click", () => {
-						window.location.href = "/";
-					});
-				
-				// Add nav link underline effect
-				const style = document.createElement('style');
-				style.textContent = `
+		<div
+			id="header"
+			class="fixed z-100 w-full h-16 flex justify-center items-center">
+			<header
+				class="z-100
+				w-200
+				mt-10
+				rounded-2xl
+			h-16
+			text-white
+			flex
+			items-center
+			justify-between
+			px-6">
+				<div class="logo">
+					<img
+						src="/img/mathhub.svg"
+						alt="The Math Hub Logo"
+						class="h-10"
+					/>
+				</div>
+				<nav class="flex space-x-6">
+					<a
+						href="/games"
+						class="text-white hover:text-purple-300 transition-all duration-300 font-medium relative nav-link"
+						>Games</a
+					>
+					<a
+						href="/settings"
+						class="text-white hover:text-purple-300 transition-all duration-300 font-medium relative nav-link"
+						>Settings</a
+					>
+				</nav>
+				<script lang="js">
+					document
+						.querySelector(".logo")
+						.addEventListener("click", () => {
+							window.location.href = "/";
+						});
+
+					// Add nav link underline effect
+					const style = document.createElement("style");
+					style.textContent = `
 					.nav-link::after {
 						content: '';
 						position: absolute;
@@ -77,9 +89,11 @@ const {title} = Astro.props;
 						width: 100%;
 					}
 				`;
-				document.head.appendChild(style);
-			</script>
-		</header>
+					document.head.appendChild(style);
+				</script>
+			</header>
+		</div>
+
 		<slot />
 	</body>
 </html>

@@ -168,7 +168,48 @@
         "controls": "Coming Soon"
     },
     {
-        "name": "Slender",
+        "name": "Sonic.exe",
+        "image": "/img/g/sonicexe.webp",
+        "url": "/cdn/pc/sonic-exe",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Tattletail",
+        "image": "/img/g/tattletail.webp",
+        "url": "/cdn/pc/tattletail",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Schoolboy Runaway",
+        "image": "/img/g/schoolboy.webp",
+        "url": "/cdn/pc/schoolboy-runaway",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Slender - The 8 Pages",
         "image": "/img/g/slender.webp",
         "url": "/cdn/pc/slender",
         "tags": [],
@@ -198,6 +239,19 @@
         "name": "Undertale: Yellow",
         "image": "/img/g/undertaleyellow.webp",
         "url": "/cdn/pc/undertale-yellow",
+        "tags": [],
+        "categories": [
+            "PC Games",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Thanks to gn-math.github.io for the web port <3",
+        "controls": "Coming Soon"
+    },
+    {
+        "name": "Growden.io",
+        "image": "/img/g/growden.webp",
+        "url": "/cdn/pc/growden-io",
         "tags": [],
         "categories": [
             "PC Games",

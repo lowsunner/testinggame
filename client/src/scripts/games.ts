@@ -192,7 +192,7 @@ function createGameCard(game: any): string {
             >
             <div class="p-4 flex justify-between items-center">
                 <h3 class="text-white font-medium text-xl">${game.name}</h3>
-                <button class="fav-btn text-2xl" data-url="${game.url}">${isFav ? '★' : '☆'}</button>
+                <button class="fav-btn text-2xl text-blue-500" data-url="${game.url}">${isFav ? '★' : '☆'}</button>
             </div>
         </div>
     `;
